@@ -1,0 +1,51 @@
+titulo,categoria,precio,calificacion,ventas,fecha_venta,bestseller
+Libro 29,Ciencia,10.93,3.4,209,2023-01-02,0
+Libro 35,Historia,5.28,4.8,252,2023-01-09,1
+Libro 33,Ciencia,12.9,3.2,373,2023-02-06,1
+Libro 15,Ciencia,12.9,4.1,51,2023-02-08,1
+Libro 43,Ciencia,22.0,4.0,421,2023-02-23,1
+Libro 28,No Ficción,10.52,3.9,267,2023-03-01,1
+Libro 47,No Ficción,18.38,3.3,289,2023-03-16,1
+Libro 22,Autoayuda,21.89,4.2,434,2023-04-09,0
+Libro 37,Historia,19.23,4.3,172,2023-04-09,0
+Libro 49,No Ficción,16.83,4.1,146,2023-04-14,0
+Libro 27,Historia,17.14,3.2,221,2023-04-22,0
+Libro 48,Autoayuda,18.32,3.4,193,2023-04-23,0
+Libro 46,Ficción,12.42,3.5,444,2023-04-26,1
+Libro 44,No Ficción,13.99,4.4,147,2023-04-30,0
+Libro 1,Ciencia,9.82,4.1,367,2023-05-04,0
+Libro 14,No Ficción,14.0,4.0,162,2023-05-08,0
+Libro 18,Autoayuda,11.53,4.2,103,2023-05-09,0
+Libro 41,Ciencia,18.02,3.3,329,2023-05-11,1
+Libro 32,Ciencia,13.47,3.6,296,2023-05-20,0
+Libro 25,Ficción,16.74,4.2,179,2023-05-24,1
+Libro 9,Historia,13.5,4.4,150,2023-05-27,0
+Libro 38,Autoayuda,20.8,3.0,450,2023-05-27,1
+Libro 6,No Ficción,12.82,3.5,435,2023-05-28,0
+Libro 10,Autoayuda,9.16,3.2,162,2023-05-28,1
+Libro 20,Ciencia,15.42,3.4,273,2023-05-31,0
+Libro 42,Ficción,23.3,4.1,374,2023-06-01,1
+Libro 34,Ficción,10.87,3.7,488,2023-06-09,0
+Libro 45,No Ficción,6.91,3.5,247,2023-06-10,1
+Libro 2,Autoayuda,18.67,3.8,491,2023-07-06,0
+Libro 12,Historia,5.63,3.4,130,2023-07-18,1
+Libro 40,No Ficción,23.53,3.6,343,2023-07-27,1
+Libro 36,Autoayuda,8.98,3.5,233,2023-08-21,0
+Libro 24,Ficción,15.79,4.8,175,2023-09-09,0
+Libro 7,Historia,8.64,3.5,436,2023-09-09,1
+Libro 31,Historia,5.31,4.8,465,2023-09-11,1
+Libro 5,Autoayuda,8.47,4.4,344,2023-09-16,1
+Libro 23,Ciencia,19.95,4.4,452,2023-09-20,0
+Libro 19,Ficción,16.41,4.1,392,2023-09-24,0
+Libro 21,No Ficción,24.22,4.9,274,2023-10-25,0
+Libro 30,Ciencia,8.31,3.8,247,2023-10-31,0
+Libro 39,Ficción,17.12,3.7,304,2023-10-31,0
+Libro 13,Autoayuda,21.85,4.8,236,2023-11-04,1
+Libro 3,Historia,17.2,4.9,101,2023-11-22,0
+Libro 16,No Ficción,23.53,4.4,179,2023-12-04,1
+Libro 50,Ciencia,10.49,3.8,250,2023-12-06,1
+Libro 8,Historia,20.11,3.1,162,2023-12-12,1
+Libro 26,Historia,24.31,3.6,102,2023-12-12,1
+Libro 4,Autoayuda,21.66,4.7,317,2023-12-15,1
+Libro 11,Ciencia,16.35,3.9,489,2023-12-18,1
+Libro 17,Ciencia,19.55,3.3,269,2023-12-26,0

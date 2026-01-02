@@ -1,0 +1,96 @@
+CÓMO RAZONAR UNA CONSULTA DESDE CERO
+
+Te explico el método mental para convertir un pedido humano → SQL.
+
+Voy a usar tus propias consultas como ejemplo.
+
+🧩 PASO 1 – Identificar qué tabla tiene el dato principal
+
+Ejemplo:
+
+“Buscá las licencias que vencen en los próximos 30 días.”
+
+La pregunta clave es:
+¿Dónde está la fecha de vencimiento de las licencias? → en drivers.
+
+Listo, ya sé por dónde empezar:
+
+FROM drivers
+
+🧩 PASO 2 – ¿Qué columnas necesito mostrar?
+
+driver_id
+
+first_name
+
+last_name
+
+license_expiry
+
+Esa es la lista de SELECT.
+
+🧩 PASO 3 – ¿Qué condición debe cumplirse?
+
+La condición viene directamente del lenguaje humano:
+
+“vencen en los próximos 30 días”
+→ filtro de fecha.
+
+En SQL:
+
+WHERE license_expiry <= CURRENT_DATE + INTERVAL '30 days'
+
+🧩 PASO 4 – ¿Tengo que agrupar o contar?
+
+En este caso no → solo listar.
+
+🧩 PASO 5 – Ordenar para que sea útil
+
+Si hablamos de vencimientos:
+
+ORDER BY license_expiry
+
+🧩 YA TENÉS LA QUERY ARMADA
+
+Sin memorizar nada difícil.
+Así es cómo la construís razonando.
+
+🔥 OTRO EJEMPLO
+
+“¿Cómo saco los kilómetros promedio por vehículo?”
+
+Preguntate:
+
+1. ¿Dónde están los kilómetros?
+
+En routes.distance_km
+
+2. ¿Qué relaciona vehículos con rutas?
+
+La tabla trips
+porque cada trip tiene:
+
+vehicle_id
+
+route_id
+
+3. ¿Qué tengo que sumar?
+
+distance_km de cada trip
+
+4. ¿Qué tengo que dividir?
+
+SUM(distance_km) / COUNT(trips)
+
+Así nace una consulta:
+
+SELECT
+   t.vehicle_id,
+   AVG(r.distance_km) AS km_promedio
+FROM trips t
+JOIN routes r ON r.route_id = t.route_id
+GROUP BY t.vehicle_id;
+
+
+Fijate que ya sabés construir queries porque …
+sabés razonar la estructura del modelo.

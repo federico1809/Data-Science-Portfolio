@@ -1,0 +1,401 @@
+user_id,subscription_date,course_category,region,user_type,completed_courses,time_spent_hours,satisfaction_score,revenue_usd
+7eb0247b-0728-4034-9518-90d74495962c,2023-01-01,Data,North America,Premium,5,22.77,3,78.44
+03ecd222-1662-40eb-b754-302baf500074,2023-01-02,Tech,Asia,Free,9,2.8,5,30.0
+221194d8-e426-48ec-abae-c53b6d04778b,2023-01-03,Business,LATAM,Free,8,51.33,1,197.95
+16f31e62-227f-4163-838d-9682daad18fe,2023-01-04,Data,Asia,Enterprise,7,36.04,1,144.1
+60bce652-ea67-4606-a37a-261a802fe50f,2023-01-05,Data,LATAM,Trial,2,3.15,1,50.09
+5e58b656-06f3-4a71-8438-e3269d2720bd,2023-01-06,Design,LATAM,Premium,7,61.36,1,192.87
+35419050-fcec-4148-b99f-e70fb9e2429c,2023-01-07,Data,North America,Trial,0,37.46,4,141.24
+a3c86bbf-352a-42bd-96a2-f4be7afb28b4,2023-01-08,Design,LATAM,Enterprise,3,77.45,4,223.23
+068a29b1-21fb-4ff6-ac19-69013a6f6472,2023-01-09,Data,North America,Premium,1,72.21,4,31.97
+e8fe246c-cc5c-4097-a538-bee6c02d1b51,2023-01-10,Design,Asia,Free,10,28.19,1,249.62
+d47f6dd6-2be4-4dd4-9038-9f9a762cb498,2023-01-11,Design,LATAM,Free,7,52.46,4,177.38
+d5d14fbd-dbb4-4671-953f-0b10754a52fc,2023-01-12,Tech,North America,Premium,0,67.77,4,177.32
+1f7d3199-3ac2-4342-940e-a3bb27768a7e,2023-01-13,Design,Asia,Free,3,50.67,1,110.05
+f07899c1-1203-490a-9cad-8d244c5f575a,2023-01-14,Data,Europe,Premium,3,54.64,3,116.22
+008c205f-e615-4692-87e8-e473bb9c7aa4,2023-01-15,Design,Asia,Premium,5,2.36,3,212.93
+a0ddc4dc-cc9f-4b85-be6a-7ce92a8c7bb7,2023-01-16,Tech,North America,Free,1,74.82,3,70.86
+434ff185-f23e-4134-89e1-2e108014d5c8,2023-01-17,Business,LATAM,Enterprise,1,1.04,4,28.73
+aaddacb6-b7cb-410b-ba14-bf3e2c7199b9,2023-01-18,Tech,Asia,Enterprise,0,24.6,4,138.53
+c8b590ef-0229-435e-ba33-3ff931143dcc,2023-01-19,Marketing,Europe,Premium,10,67.6,1,71.27
+055ca069-7153-49ed-8bb4-7968dc2bc515,2023-01-20,Data,LATAM,Free,4,56.63,5,184.6
+8bb04290-946d-4d97-920b-842cf842f42b,2023-01-21,Marketing,North America,Trial,9,40.16,5,29.05
+4ab09b60-575d-47b3-94c1-2a3e50a75954,2023-01-22,Tech,Europe,Premium,1,73.39,2,247.71
+443c5534-6575-4d55-bb61-dea6abdeb707,2023-01-23,Tech,Europe,Trial,4,66.59,1,215.15
+946259a3-2849-4172-b895-d146093ded33,2023-01-24,Marketing,Europe,Premium,7,55.13,1,54.22
+fcea9abf-44f9-4289-8495-a2437f344801,2023-01-25,Design,North America,Trial,6,7.86,2,91.23
+d0b6997f-7068-4f0a-b106-11cdfd983bb5,2023-01-26,Tech,Europe,Premium,7,18.78,2,40.25
+d80df52b-47af-4701-aee6-f694a9d88fea,2023-01-27,Business,LATAM,Trial,5,79.26,1,155.33
+49f45a1f-9f45-4dc2-83d1-e03cd1945e7f,2023-01-28,Tech,LATAM,Free,6,60.01,3,5.86
+479650ba-cd90-4cac-b5b5-3fe4cd59ada3,2023-01-29,Business,North America,Trial,2,67.86,3,169.38
+de9a0f81-2010-484b-b419-d50d96b9bf61,2023-01-30,Tech,LATAM,Enterprise,7,32.83,5,199.32
+0b5734d6-ae7b-4314-b62f-e3096037ca27,2023-01-31,Tech,LATAM,Enterprise,8,30.02,2,41.59
+7449ff79-ad91-442a-af18-d818bcd193a4,2023-02-01,Business,Europe,Free,1,53.67,1,171.7
+f47ce23a-6c2f-4e37-adef-6d0acce6cf69,2023-02-02,Business,Asia,Trial,6,42.65,5,185.72
+52319b09-7ad8-4bd3-8935-11322dea0113,2023-02-03,Data,Asia,Trial,8,1.04,2,67.58
+4972507e-15ab-484d-9647-d68ce4afc0bf,2023-02-04,Data,Europe,Free,7,62.42,1,17.5
+ef02023f-6023-4e5e-a46c-78d793c9800b,2023-02-05,Tech,Europe,Premium,8,33.37,2,147.15
+689058ba-013e-46e4-b4a8-e84658251d08,2023-02-06,Marketing,Asia,Premium,4,60.49,3,207.0
+3383a6e2-45c4-42a6-beab-637c378062e0,2023-02-07,Tech,Europe,Free,4,42.48,3,180.35
+bbbb2f6b-3df7-4010-87f0-6a15ada52bc3,2023-02-08,Design,Asia,Premium,1,26.3,1,47.97
+11a30e85-34df-4802-b2e8-a2e0671ef75e,2023-02-09,Marketing,North America,Premium,1,19.1,2,12.57
+4c308a4b-3c7b-4315-9c4f-ae3ecce8b40e,2023-02-10,Marketing,LATAM,Trial,5,40.1,3,11.1
+4b25e894-25a7-47d7-a755-11c01bf34ee9,2023-02-11,Business,Europe,Trial,8,23.57,4,41.47
+603dbcb2-e7af-4ba2-b771-f74e8610c1c5,2023-02-12,Data,North America,Free,3,21.52,3,245.29
+51058e8a-fe21-43ae-869f-bbef04725278,2023-02-13,Marketing,LATAM,Free,3,30.61,5,65.03
+01a8413b-a182-4305-b224-dd6aa07030b3,2023-02-14,Business,North America,Free,4,25.42,5,165.58
+42ded4d5-f4ad-41eb-b83e-e51bc1e1cca9,2023-02-15,Design,LATAM,Premium,10,69.27,2,81.38
+b9a6adbc-b9ef-460c-9203-70698ab90d91,2023-02-16,Marketing,LATAM,Premium,2,22.67,4,213.44
+9edcaa81-ce6a-4857-b9d2-ae71d4fe9d2b,2023-02-17,Business,North America,Free,3,46.61,1,244.25
+1a2c53a5-6a4d-4451-92e0-bcb2f2098a06,2023-02-18,Tech,North America,Trial,7,35.99,4,47.22
+de1ee625-c14f-4daa-ac25-e09e3218cfa6,2023-02-19,Design,North America,Premium,3,79.81,2,136.65
+3498bf1b-09aa-4875-9caf-d960efae38f0,2023-02-20,Marketing,Europe,Trial,4,39.47,3,46.78
+0b8c1729-4728-4072-b75c-751461190c08,2023-02-21,Marketing,North America,Trial,10,14.14,2,234.55
+f0289149-749c-43c6-9bd4-68f62d909ffd,2023-02-22,Marketing,North America,Premium,4,74.57,1,239.89
+bb456e3c-e40c-403e-8a43-40389b2a64b7,2023-02-23,Business,Asia,Enterprise,8,77.0,1,41.91
+760fba84-79d6-4ea2-ba08-9bb82b7692c3,2023-02-24,Marketing,Europe,Enterprise,6,36.84,3,83.45
+8166b9e3-293b-4a50-9139-a488bf44bad6,2023-02-25,Design,Europe,Trial,5,51.05,1,72.52
+f286c7e7-bfcc-49a8-b587-9de1e9aba7a2,2023-02-26,Tech,North America,Enterprise,6,67.82,2,219.13
+4dbaf9ca-329f-4cbd-98b5-beb8095a29c7,2023-02-27,Data,LATAM,Enterprise,7,79.35,2,68.64
+e623ac25-89e0-47a6-b87d-52c1f936f71a,2023-02-28,Data,Europe,Premium,2,29.06,2,54.55
+46669e18-b63a-4b1e-9bd7-3ac720898f85,2023-03-01,Data,North America,Enterprise,4,50.57,5,89.87
+7ea865c1-884b-4887-9cff-1ecba648930b,2023-03-02,Marketing,Asia,Free,4,47.5,5,37.52
+d8abd803-ef38-4cad-8024-4f39e029b32e,2023-03-03,Tech,North America,Trial,4,52.46,3,11.14
+13d8c66c-88fb-459f-8fdb-73480de4c4e7,2023-03-04,Data,Europe,Enterprise,2,49.55,5,35.34
+9b42122e-03fc-4789-9b1a-355988313aa4,2023-03-05,Marketing,Asia,Premium,8,25.01,5,29.81
+23de6a1a-4e11-449f-886a-b737341b85e2,2023-03-06,Tech,North America,Enterprise,10,2.48,4,41.19
+eca59714-2fc6-40a8-8c62-20fdcc183049,2023-03-07,Design,LATAM,Premium,2,9.71,2,47.88
+ee186cf7-f9a5-454a-ba34-1537a36319d7,2023-03-08,Marketing,LATAM,Enterprise,10,41.43,3,203.47
+9a9721a1-3dcc-434b-8c32-7a686daae6ae,2023-03-09,Data,LATAM,Trial,5,32.05,4,237.22
+fccf9b2c-9c66-49fe-8185-b2fb4cacc8d0,2023-03-10,Marketing,North America,Premium,8,5.28,4,249.08
+fde5793e-1bab-40fe-b43c-9e5a4660f5f3,2023-03-11,Marketing,LATAM,Free,0,4.99,3,44.39
+deea16ed-e43e-4b5d-84a9-2100b70c3605,2023-03-12,Design,Asia,Premium,8,16.14,5,96.47
+68c0f1a2-7463-48cc-809d-f4ec0ac36f4b,2023-03-13,Design,Europe,Free,2,41.06,5,14.05
+634beee8-b36e-4733-9c15-1b50c8aa58e9,2023-03-14,Data,Asia,Premium,3,9.36,5,185.82
+89d71687-f437-4027-a2e1-15e369a596a6,2023-03-15,Business,Europe,Trial,2,54.22,1,170.75
+1e671cd4-0252-449d-8daa-5b40d10ebbc9,2023-03-16,Tech,LATAM,Premium,3,1.53,1,95.78
+27c2d26e-be00-4055-892e-0e115a4fd0f7,2023-03-17,Design,LATAM,Trial,6,79.53,2,208.4
+7d54c6c7-ac34-4446-95f1-6c565cc937f0,2023-03-18,Business,Asia,Free,6,58.53,1,167.8
+1e0546d3-4d39-46f7-88dc-69e0f8b6549f,2023-03-19,Design,Europe,Premium,0,36.6,1,3.7
+0302b284-d0c2-4b03-85c7-b816332b7df7,2023-03-20,Data,North America,Trial,7,1.95,3,108.64
+b029c457-fe9a-4c4f-93b6-bb8afe48f38f,2023-03-21,Design,Europe,Free,8,9.86,2,41.94
+7ab097a8-7c2d-4f90-b9cf-2f22a44d36db,2023-03-22,Data,North America,Enterprise,10,61.24,1,235.73
+3033d115-14e6-4bef-9d41-0076966e4b63,2023-03-23,Design,LATAM,Enterprise,6,38.42,3,65.32
+0c2c3147-fefd-4950-a6be-9d265bf04d5b,2023-03-24,Design,North America,Trial,0,63.62,4,62.39
+01216be9-8c5b-4c02-889a-6a60f0b2c292,2023-03-25,Data,Europe,Premium,5,38.65,5,150.56
+b18a1da9-f379-4296-b69c-9566b4a7da43,2023-03-26,Marketing,Asia,Premium,3,66.18,5,86.77
+b406e0b6-93fd-45b2-9fab-b7edb048492f,2023-03-27,Tech,Asia,Enterprise,5,12.93,5,136.12
+533f5d5c-1a98-4a14-bcc2-18ccd74a8fb7,2023-03-28,Design,Asia,Premium,1,7.28,4,25.52
+9a36052a-5d81-469a-be92-eb940226eec5,2023-03-29,Data,LATAM,Trial,1,8.32,4,100.98
+900e4251-7a16-4d0c-a84e-1a59ed128a99,2023-03-30,Design,Asia,Trial,1,11.21,1,95.71
+35923174-bc35-4130-8e82-8f3bc1e4a226,2023-03-31,Design,Asia,Free,1,40.63,5,134.23
+bfef9875-c04a-4a95-9c11-2b3c8ae88d09,2023-04-01,Marketing,North America,Trial,2,47.51,4,122.4
+e832e9e5-15fa-405a-8402-7660fa914a9c,2023-04-02,Business,North America,Free,9,76.07,5,168.43
+44de7f6f-137e-47b2-8547-3b38f081c618,2023-04-03,Business,North America,Enterprise,4,4.82,2,11.28
+c2b80592-738c-4b1b-a34b-87999b9289de,2023-04-04,Data,North America,Free,4,4.01,3,186.8
+47736251-2cbd-4de2-a51c-a1f8a14941d1,2023-04-05,Data,North America,Premium,9,59.37,5,40.33
+c1865f23-5313-4955-9f31-408752df483b,2023-04-06,Data,Europe,Free,5,76.27,1,120.26
+c55a1748-16da-45df-9c66-4d01ba5aa58c,2023-04-07,Business,Europe,Trial,9,6.63,3,168.13
+e4d4dce3-8cbf-4fd7-baf9-839bcca20ec2,2023-04-08,Tech,Europe,Enterprise,5,28.47,1,147.28
+975e49f0-779b-40a4-a5af-c538575040bb,2023-04-09,Tech,Europe,Enterprise,5,60.18,5,221.94
+2f3844ed-54d9-4a27-aa8f-d1ec0199d964,2023-04-10,Tech,Europe,Trial,6,1.63,2,247.53
+ec3b08ee-f070-4607-b044-97e97bd76e16,2023-04-11,Design,Europe,Trial,8,72.4,3,122.72
+ebef95c9-b145-49a5-85cb-b7d30fad5222,2023-04-12,Marketing,LATAM,Free,7,48.67,5,81.54
+42fbe2d7-921a-44ee-901c-6578146c1ee7,2023-04-13,Data,Europe,Free,9,22.75,4,188.62
+1a7921c5-ba63-409e-a682-00e0078db7b9,2023-04-14,Tech,LATAM,Free,6,32.1,4,14.59
+5834a40c-d288-4781-862d-83c1df513e4e,2023-04-15,Business,Europe,Enterprise,0,16.84,2,76.24
+b717b82c-8d05-4ec4-b2bb-e1e57b844a6d,2023-04-16,Design,Asia,Trial,10,22.21,1,112.14
+05e98c17-0038-4db8-b7e3-80dae4c901e8,2023-04-17,Tech,Asia,Trial,9,49.97,1,36.19
+80deb0a9-b1e4-43b4-b5f2-d039d1913e2a,2023-04-18,Tech,LATAM,Enterprise,0,43.95,2,0.13
+ba3bf345-f2f4-44b8-a83e-707f7c95abd2,2023-04-19,Design,North America,Free,3,11.72,2,225.7
+94404614-4a68-4bad-a6c7-a46f3ba86896,2023-04-20,Tech,North America,Trial,5,21.29,2,236.55
+67ac58b8-1fb0-4662-b062-7d8df028f6a6,2023-04-21,Design,Asia,Premium,8,48.44,5,24.82
+dd9fe90f-d223-4b30-8e1f-ff7c7e2cec57,2023-04-22,Design,Europe,Enterprise,7,52.64,1,82.19
+06aa05a9-0197-48b6-9c1f-2b8708095670,2023-04-23,Business,Asia,Trial,7,47.58,3,117.14
+5ee39673-7422-4df0-94c5-4a837cdd3890,2023-04-24,Marketing,LATAM,Enterprise,10,74.34,5,18.18
+bd53b447-419b-4b3e-9b01-186fae2681ed,2023-04-25,Design,North America,Trial,9,22.96,2,111.05
+95506992-ef5b-4f9e-bef8-a8dd8fdb718c,2023-04-26,Business,Asia,Free,7,1.32,3,1.94
+51e5a9fe-8591-4da0-ade2-87fac0f5c60a,2023-04-27,Business,LATAM,Enterprise,0,48.27,2,111.24
+169aa7fd-fb66-42b4-90be-7cf4e2124bd7,2023-04-28,Tech,Asia,Trial,4,49.43,5,225.06
+4c2616e0-1775-42fc-ac0a-74c83ada4550,2023-04-29,Design,Europe,Premium,7,78.84,3,70.13
+741faadf-2cc9-4e1a-ba1d-82d3c68c8e15,2023-04-30,Tech,Europe,Premium,4,32.33,2,206.01
+4c0afc2b-c65a-4d4d-aaa1-0257383a151c,2023-05-01,Data,LATAM,Enterprise,6,4.98,5,90.24
+ec8f6c24-1afb-496f-a594-3984fabc2368,2023-05-02,Data,Asia,Enterprise,10,67.26,1,106.89
+0a21a571-0e1a-4297-ab38-d9c376f0a6ed,2023-05-03,Data,Europe,Free,4,64.35,5,69.14
+c247fedf-4982-4038-9353-0f8331cf901c,2023-05-04,Design,LATAM,Premium,10,22.7,1,224.56
+9c651580-a7d6-43f8-ad1d-270fbcb0b421,2023-05-05,Tech,LATAM,Premium,4,43.69,3,49.61
+cfee0b5f-a3ab-49de-9913-34210c32790a,2023-05-06,Business,Asia,Trial,10,73.67,1,143.14
+bb5ed3cb-f59e-49bc-91a6-639169d808de,2023-05-07,Tech,North America,Free,3,5.61,1,32.42
+307425c0-437e-4338-b02e-47245dbc6b6f,2023-05-08,Business,North America,Premium,9,78.77,1,126.24
+237cfeea-8893-4c5f-aedf-35e6c249a891,2023-05-09,Data,Europe,Premium,3,34.66,2,122.17
+b4427f4e-799d-4831-98dd-772fbaa35323,2023-05-10,Business,Asia,Free,5,42.96,3,47.51
+04a78c00-b0e2-4325-88c8-cbc4d4f3869c,2023-05-11,Data,Europe,Free,6,44.68,4,84.66
+fcf7ddb9-ab23-42d2-a534-7e8ecffaa95b,2023-05-12,Design,Europe,Enterprise,4,78.32,1,66.87
+7eaa5a5a-447e-4c53-921e-c38fe1f1ae28,2023-05-13,Design,LATAM,Free,5,50.03,3,165.12
+28db4c50-6c0b-48c2-a225-aa76953b12b7,2023-05-14,Tech,North America,Enterprise,2,22.31,2,158.71
+9175514f-6125-4bc3-a3a2-a3919544b515,2023-05-15,Design,North America,Free,9,14.5,4,27.89
+448e40a9-a435-4c35-9d4a-cdc14f224b8f,2023-05-16,Design,Europe,Free,6,51.83,1,217.29
+9f28bb64-f150-4b89-8c1f-e4faa18fecb9,2023-05-17,Marketing,North America,Premium,8,31.45,1,212.3
+bc24c20b-8384-4f8e-8c1f-57b52885e229,2023-05-18,Data,North America,Enterprise,10,7.75,1,139.4
+76bbbac1-7060-4fce-aaa1-1c3e8b184abc,2023-05-19,Data,Asia,Free,3,74.37,2,223.25
+18011b49-44c2-4509-9c01-f3cef3e3bba2,2023-05-20,Business,LATAM,Enterprise,3,72.25,5,198.55
+31c24c74-7f63-48d5-b104-d0db3ecdfb02,2023-05-21,Tech,Europe,Free,8,51.71,2,191.49
+1a511bcb-b383-4ccf-81b1-3129b2573a18,2023-05-22,Business,Europe,Trial,3,15.85,4,119.56
+451d1b29-01be-4d9c-b500-3838c0d14877,2023-05-23,Data,Asia,Free,4,28.96,4,89.0
+ae459cc1-7282-438c-b97c-0fcdce2d989a,2023-05-24,Design,Asia,Enterprise,5,48.55,3,113.31
+1448c963-2bb1-47c9-ac0d-0a9d0f23d92a,2023-05-25,Business,LATAM,Enterprise,2,76.45,4,245.95
+b3003a8a-389c-4581-a875-1e5aff8f6dd7,2023-05-26,Marketing,North America,Premium,4,8.08,5,147.69
+f9c6170d-b3dd-4460-a146-a1613f0c896d,2023-05-27,Data,Asia,Premium,1,28.48,3,88.83
+04ff7dd6-4aa5-4fa0-99c7-f6005a37e206,2023-05-28,Business,North America,Enterprise,7,50.1,4,8.64
+b6566d36-8906-452d-a7e3-ee1a71fe1b4f,2023-05-29,Design,LATAM,Enterprise,0,74.57,1,228.19
+cf0e6b2b-487e-4c16-8aa1-090e5a53a11d,2023-05-30,Business,Europe,Premium,7,60.99,1,226.7
+f8f087d3-4a7d-4dab-9e97-8c688eb5e382,2023-05-31,Data,LATAM,Enterprise,8,58.97,1,229.51
+ab69dd7a-e683-40c6-b77e-66efad050166,2023-06-01,Tech,LATAM,Free,9,63.39,4,25.17
+767d1134-6aed-4869-8986-76414a27403f,2023-06-02,Tech,LATAM,Trial,4,73.81,5,123.27
+53375ad0-1f51-42ea-b315-dc55195a8ffe,2023-06-03,Marketing,Europe,Enterprise,3,55.29,4,100.63
+684a433e-2b12-4c93-969d-d24a368ee092,2023-06-04,Business,North America,Trial,2,39.99,5,137.33
+797cb1d0-69ff-4434-a54f-d87376a597dc,2023-06-05,Business,Europe,Free,3,26.44,4,226.45
+39dad60c-df98-45a7-8297-e782740ff0c4,2023-06-06,Data,Europe,Free,10,6.47,5,153.54
+bc4d783f-cd46-48d4-8f9d-27857a0e334d,2023-06-07,Design,LATAM,Enterprise,10,24.99,5,66.39
+f92587df-885f-4342-b8ff-b279349a886f,2023-06-08,Business,LATAM,Premium,6,43.67,5,6.82
+f42b28d2-1bea-49b5-9205-785e06756edb,2023-06-09,Data,Europe,Enterprise,6,40.71,2,68.48
+d2e01691-3f08-4ae7-94af-08a22813c86f,2023-06-10,Data,LATAM,Enterprise,4,13.03,3,149.41
+0e498d25-d500-47a1-b552-ead13f01fc9e,2023-06-11,Tech,Europe,Free,2,24.31,3,176.09
+fae348ae-5e95-4ccc-81a2-2b5ded518fe2,2023-06-12,Marketing,LATAM,Premium,0,7.41,5,162.98
+9d14803f-3f0c-4248-85ed-fbbf6e4793b8,2023-06-13,Marketing,Europe,Trial,4,18.44,2,9.02
+835a8045-8e4d-43c4-8aa1-4ea14b209a07,2023-06-14,Tech,Europe,Trial,0,2.28,2,239.75
+ecc86d07-6e0d-48e8-adf2-6ab91d2593a4,2023-06-15,Tech,LATAM,Enterprise,0,41.17,4,37.96
+c4f1608e-27cd-46d3-a3a3-230973ccb1e7,2023-06-16,Marketing,Asia,Trial,5,71.21,1,73.35
+b0c803b6-5b76-4aaa-92e8-b5339922ed32,2023-06-17,Marketing,Europe,Enterprise,10,77.18,1,200.03
+e0afff3f-b9f7-4fff-8a3b-9a06a01b7ee8,2023-06-18,Data,LATAM,Trial,0,50.47,3,132.49
+86c4c9be-e14c-4e36-ae7c-0d09d13aec09,2023-06-19,Design,LATAM,Free,0,3.24,5,128.79
+c07de7f1-dca0-4bdd-bb6f-446816b69dd2,2023-06-20,Marketing,Europe,Premium,8,11.04,5,27.77
+adc852ae-3c6f-4abd-bb0e-b94aa8f051ea,2023-06-21,Tech,Europe,Premium,6,68.25,2,147.32
+e853d978-ab9d-4643-991d-355b20020157,2023-06-22,Marketing,Asia,Trial,5,35.85,1,161.19
+80b00bfb-13b3-4a2b-88ea-b4c28aacaa34,2023-06-23,Data,North America,Trial,5,69.86,3,193.08
+f1b57e0d-dd0f-41b0-aee0-ce76d5ad5d03,2023-06-24,Design,Europe,Enterprise,6,9.15,3,7.33
+84d40217-4a7a-4f21-b6ef-294ffd7cf95e,2023-06-25,Tech,Europe,Free,0,33.5,5,99.44
+adeeeb97-24da-43d0-8b4b-37f5ba5ea65d,2023-06-26,Business,Europe,Enterprise,5,35.95,4,139.22
+fd52c522-5549-4f9d-8a4a-9332d88ad8da,2023-06-27,Tech,North America,Free,5,60.48,4,115.19
+fbc6fa57-a642-4503-9eee-4f2727c631e6,2023-06-28,Data,LATAM,Trial,10,21.71,4,7.04
+5eeb047a-1eee-42df-a134-4cec071065b8,2023-06-29,Design,North America,Enterprise,10,28.29,2,177.76
+5e109a20-e82c-428e-a31c-d3cd9470ae78,2023-06-30,Design,LATAM,Premium,2,16.71,3,38.55
+35cb40ba-2c4f-4eea-9171-be9082256307,2023-07-01,Design,LATAM,Premium,6,72.48,5,238.59
+e4dbcf5a-93d0-45c4-ae1b-340ef754c52f,2023-07-02,Tech,Europe,Enterprise,4,19.89,3,18.49
+7617b3bf-95fe-44d2-80c5-886a094e95cf,2023-07-03,Design,Europe,Free,3,77.9,5,134.43
+2bc99b1f-17ed-4c00-8f94-4fe6f0dcde1c,2023-07-04,Marketing,LATAM,Enterprise,9,9.62,4,51.94
+1e489b8c-c3ea-431c-b945-9c840eb9f93a,2023-07-05,Tech,Asia,Enterprise,7,16.05,1,221.56
+fd12a3e5-2e39-4211-86dd-266d45009799,2023-07-06,Marketing,LATAM,Free,4,76.36,5,145.21
+e937cac0-3fe3-4b24-b4d6-8146a09e20f7,2023-07-07,Design,LATAM,Free,9,32.75,4,35.82
+d5014b29-5e7d-4680-a981-25e49a4ff628,2023-07-08,Business,Asia,Enterprise,7,44.77,5,189.46
+89eb8c49-1826-4032-9f3b-c970ac4ee52d,2023-07-09,Tech,North America,Premium,9,19.85,3,151.0
+653b927f-702d-46b5-8d0d-97d027a30fd9,2023-07-10,Tech,LATAM,Enterprise,9,56.71,2,234.75
+0322bd4f-ee8c-4ac7-9dd9-fa5781bdd2f0,2023-07-11,Tech,Europe,Enterprise,2,13.15,5,78.25
+7dc27963-493c-4243-a652-ef397a2fffae,2023-07-12,Design,Europe,Trial,6,77.89,1,188.05
+92b8b13a-759c-4101-8a40-242f78ad623d,2023-07-13,Design,LATAM,Free,3,63.43,4,21.16
+8f9eedd8-1358-4856-9a73-0a4c5fd506f3,2023-07-14,Design,Europe,Free,8,76.86,3,127.51
+5d254bc0-9e5e-4987-8582-5d6c63bb4dd5,2023-07-15,Data,Asia,Enterprise,5,26.16,1,56.24
+4a2cb239-9162-4472-b6ba-5a1b7f0abb93,2023-07-16,Tech,Asia,Enterprise,2,39.32,4,206.38
+dbe8b55e-0177-4837-b04f-31c1c8268290,2023-07-17,Data,Europe,Trial,6,67.63,1,229.07
+14e6d881-304a-4e53-b25b-c09413d03131,2023-07-18,Marketing,Europe,Premium,10,33.61,5,50.68
+1e7ea919-884a-4090-974a-72fb09721f49,2023-07-19,Data,Asia,Enterprise,3,70.9,5,29.1
+becd1f79-2802-4cf1-91e0-87a68d3e12ec,2023-07-20,Data,Asia,Enterprise,7,30.49,5,195.27
+5084bc4a-4248-431b-93cd-ffb6183ada53,2023-07-21,Design,Asia,Trial,0,30.01,1,163.57
+4ddcc4d3-d456-47f5-8023-c71c46cc8fc0,2023-07-22,Tech,Asia,Trial,8,31.94,1,33.57
+45bdcaef-40cf-4254-aa53-26a5c716c1b7,2023-07-23,Design,North America,Premium,4,2.58,4,65.84
+9cc20990-bbb0-4112-9d5e-70f624dd9dc3,2023-07-24,Data,Asia,Trial,1,47.01,4,18.01
+b3c72b7c-400e-45b8-9437-40dde93988ee,2023-07-25,Design,Asia,Premium,2,27.93,5,179.51
+f3706754-a6e8-4045-9a44-3057d91cc204,2023-07-26,Business,Asia,Enterprise,5,68.22,3,70.93
+6ac97e99-7bd1-4837-b05a-cab71543923c,2023-07-27,Marketing,North America,Premium,7,7.02,1,227.4
+66a08229-7007-4dc0-aa40-298fea418b28,2023-07-28,Data,Asia,Premium,5,42.94,4,44.8
+990ee664-cb79-420a-b7f4-66f19707e8b5,2023-07-29,Design,Asia,Enterprise,4,16.45,3,49.69
+9e55e1e7-b956-4742-9ec0-d26c617dd6d2,2023-07-30,Design,Asia,Enterprise,6,2.94,5,51.42
+7eea2b2b-35b0-4154-b04a-c7ca90cfff74,2023-07-31,Design,Europe,Premium,5,1.7,3,70.4
+dd048b0e-485b-44f3-bc7d-4eb9f483e909,2023-08-01,Tech,North America,Free,3,2.03,5,118.07
+7c7223b9-128c-408b-8633-37408e5df0f3,2023-08-02,Marketing,Asia,Enterprise,6,25.04,4,127.63
+54971a7f-bed5-4b0f-aec3-c75ab6534750,2023-08-03,Tech,North America,Premium,1,20.42,5,229.2
+9f5f119d-3e9c-41b1-b749-268609da04a9,2023-08-04,Design,Europe,Premium,5,52.49,1,22.21
+47bb8a5e-1d35-4760-9a60-49dd64526978,2023-08-05,Business,Asia,Enterprise,8,19.89,3,119.21
+0fbef6fe-e617-44f8-9453-e6099634b6d5,2023-08-06,Marketing,LATAM,Enterprise,0,61.91,4,121.72
+bd7b3fbc-96e1-4ec2-9d52-a36ce75a4b8c,2023-08-07,Marketing,Asia,Free,2,24.02,4,98.12
+2dd17e2f-b4b7-4cc4-9691-d5bf7bc249ca,2023-08-08,Design,Asia,Free,8,46.65,1,201.28
+3ce222d9-e6d5-43b0-85e7-8ef6d869f708,2023-08-09,Business,LATAM,Trial,3,26.45,1,56.21
+b74d4079-b837-45c0-9c8f-43d154aef4d9,2023-08-10,Business,Europe,Enterprise,10,11.88,3,201.48
+e09a9ad0-1957-42d1-b8ad-9011079e317f,2023-08-11,Design,Europe,Free,3,54.88,3,21.5
+2cb52423-e83b-493e-a825-f7352abeb1b5,2023-08-12,Design,Europe,Premium,4,55.55,3,173.34
+84433d0b-5652-4ddf-9fae-d52f34e1a435,2023-08-13,Tech,LATAM,Free,10,34.73,1,165.44
+b6c78995-d71c-4030-a29f-572fe78760ca,2023-08-14,Business,Europe,Premium,1,25.8,3,245.56
+a3215a8a-596c-4b3f-90bf-9fe3e5688759,2023-08-15,Business,Europe,Free,6,73.79,4,133.93
+b1c8a74c-71c4-4f9f-8e24-60963f719fca,2023-08-16,Data,North America,Premium,8,47.33,4,109.47
+b70c267a-af06-40c9-b4dd-a82cf91b02a5,2023-08-17,Business,LATAM,Free,5,36.56,1,164.75
+91f98ba4-ef4c-4e46-86d3-3e4c02ac3c93,2023-08-18,Data,LATAM,Enterprise,6,55.6,3,124.53
+4bac55f8-ce8f-41db-8b22-1e4b2a7a4dba,2023-08-19,Business,North America,Trial,1,78.79,4,161.52
+956843ba-e80c-4565-83b7-31fdff2635e3,2023-08-20,Business,LATAM,Enterprise,7,73.23,3,40.46
+4aeb83a9-70a7-420b-bd3a-9594f445ddf0,2023-08-21,Business,Europe,Premium,0,24.11,2,125.11
+860dcfec-5db0-43a9-b14a-382895527858,2023-08-22,Tech,Asia,Free,6,61.59,1,159.67
+6652b784-3a72-4cc8-be61-4b47acc5d2ab,2023-08-23,Design,North America,Trial,6,73.61,2,24.18
+42935e75-73fd-4937-b8bf-cb0833ce621c,2023-08-24,Design,LATAM,Enterprise,3,29.08,3,170.19
+b67e78ce-fc07-4c0a-b2bc-55468c4f835a,2023-08-25,Data,LATAM,Enterprise,8,78.06,3,54.04
+9ea60034-72a7-4bc1-943f-d228cf62ef88,2023-08-26,Business,LATAM,Trial,2,15.88,1,52.41
+41c2ba55-b3d4-491b-a5cf-b374d2aec463,2023-08-27,Design,North America,Trial,9,23.47,1,143.16
+23ed3c52-35e6-43cc-ac52-08ae0b1aeda4,2023-08-28,Design,Asia,Trial,9,45.94,1,25.76
+83fd9d0a-db32-40d3-b460-2391df1e1ef5,2023-08-29,Tech,Europe,Free,3,72.96,3,25.59
+0c3048a3-6f82-445f-ba12-6e99982f7e82,2023-08-30,Tech,Europe,Premium,2,7.4,1,247.31
+eb3f0f79-adbe-4231-8fe8-a2c50891d60f,2023-08-31,Design,North America,Premium,5,50.92,4,79.0
+a79a2c98-4fe0-474a-8f1a-e36d05286888,2023-09-01,Business,North America,Enterprise,9,51.55,2,8.92
+66c0b5e4-f4e4-4a1d-b068-41426cae42b4,2023-09-02,Design,North America,Premium,4,37.61,5,14.19
+8674f4ba-38d1-4f1c-9f68-a49b6899ba66,2023-09-03,Design,Asia,Premium,1,35.15,2,172.84
+45f7a150-fec5-4bc5-b5e0-17c085a28883,2023-09-04,Tech,North America,Enterprise,3,56.29,3,151.79
+5954c09f-bcb2-45a9-a4fe-4d5afb94f9c6,2023-09-05,Design,Europe,Premium,7,47.94,1,213.97
+259f2616-20d3-469f-83ba-b97c927f9183,2023-09-06,Data,LATAM,Premium,3,7.85,4,153.86
+177b8dc9-f193-4de9-b651-1f2dbf929b65,2023-09-07,Business,Europe,Free,3,61.29,4,45.15
+998e6d6a-f42f-4550-bbe3-18b8931eb6ae,2023-09-08,Marketing,Europe,Free,2,56.66,3,3.27
+4a7846a8-2518-4511-b3c8-77b37c3c2df3,2023-09-09,Design,Europe,Enterprise,10,32.22,3,83.78
+29a9c84e-58d2-497b-94b3-c3480c2f4e0b,2023-09-10,Business,Asia,Enterprise,4,52.11,2,243.94
+4ecff05d-0f03-4419-888b-b874ec623636,2023-09-11,Data,Europe,Trial,8,31.32,3,244.27
+9cf96bb3-6613-40ba-b5f7-ae7fbe76f0a6,2023-09-12,Data,Asia,Free,8,33.41,2,142.45
+9bfe4e12-3638-4f67-93af-e82bf0ff745a,2023-09-13,Marketing,Asia,Premium,5,10.21,3,27.8
+62d8d1b1-204c-422c-88ab-d42cfce9b4a6,2023-09-14,Marketing,Asia,Free,1,26.87,4,199.79
+05a47883-71dc-47a4-89ad-ab60cd1abec1,2023-09-15,Marketing,Asia,Premium,10,21.4,2,6.19
+47664007-3259-4589-9edd-5c0a9b1165b7,2023-09-16,Business,North America,Free,5,1.53,4,175.27
+f057f963-75b4-4da4-9c8c-e3402a777460,2023-09-17,Tech,LATAM,Free,0,29.39,5,3.62
+21a14293-9800-4189-b944-882ee72dd45f,2023-09-18,Marketing,Europe,Premium,7,23.78,4,226.32
+67b4d6e9-7bc9-42e6-a5be-7c5a58e9dffe,2023-09-19,Business,Asia,Enterprise,10,21.61,5,0.98
+8700946d-7397-41d7-b36d-e23b302ce7ca,2023-09-20,Design,Asia,Premium,7,26.0,1,164.61
+384c5ec4-f5c2-4b37-9311-db9d1589f90f,2023-09-21,Tech,Europe,Premium,2,62.01,1,35.21
+208897a4-6599-4621-ac2f-cdc30e4c2143,2023-09-22,Data,Europe,Trial,2,42.36,4,187.85
+6b109be6-7a0e-40c9-92f3-516f4a6b7fa3,2023-09-23,Design,North America,Premium,4,79.59,2,183.6
+c6f92694-e903-4b47-834f-c4094fe7e836,2023-09-24,Data,LATAM,Trial,4,78.51,1,223.6
+089f6fd9-15b7-4162-aef9-c175a286ea89,2023-09-25,Tech,LATAM,Enterprise,7,12.82,3,46.11
+1913dd37-41f8-4367-8d3a-9a9602f77525,2023-09-26,Tech,Asia,Free,3,51.75,5,85.6
+e1727243-212a-4169-9941-f98056e6520f,2023-09-27,Tech,North America,Enterprise,1,73.36,1,247.95
+42fd1a8f-69b2-4ac9-ba40-a65d8f477ec3,2023-09-28,Tech,Asia,Trial,7,24.33,3,127.23
+22c5d8b5-bdc3-4280-be5f-d440abc7e56a,2023-09-29,Business,Europe,Enterprise,10,21.46,2,156.32
+db00de8c-d9ee-4f32-b577-34297cfdafe3,2023-09-30,Marketing,LATAM,Premium,3,5.22,2,138.13
+cc25296b-b39d-47f3-81a2-8a7a6356aa74,2023-10-01,Design,LATAM,Trial,8,33.25,4,143.93
+38434e11-570d-4a66-9eb5-310084b4b555,2023-10-02,Tech,Asia,Free,0,13.93,4,102.79
+7e86d4db-4b7f-4898-910a-d8e55ce4ad62,2023-10-03,Business,Asia,Trial,8,63.69,1,198.23
+a3c36388-377e-4750-9954-1d11cf31a721,2023-10-04,Business,Asia,Premium,0,9.89,4,88.97
+607f054c-45f3-4397-9e1e-be2aa80d9dbc,2023-10-05,Tech,Europe,Trial,0,33.25,5,176.32
+3e1d1da1-8359-42c0-a711-bb88a8a5ab54,2023-10-06,Business,LATAM,Trial,3,67.54,3,54.02
+d6d5a269-c84a-4643-ae2a-8a22704cb70b,2023-10-07,Data,North America,Free,1,10.4,2,217.29
+97b4652a-d43c-4244-98d4-540ac73ebf9e,2023-10-08,Tech,North America,Enterprise,2,12.01,1,114.93
+d45b4d69-9790-49e4-bb1a-13174b299d35,2023-10-09,Design,Europe,Premium,2,57.12,2,35.9
+a9337f06-c4df-4e9d-bb17-259f387feb22,2023-10-10,Data,LATAM,Enterprise,4,60.52,5,25.02
+75b8b4f0-1c3c-44e3-a1ad-1075536bdb41,2023-10-11,Marketing,Europe,Free,2,38.46,1,63.85
+b0273ba6-2953-4730-a54b-8141534a11ec,2023-10-12,Business,Asia,Free,6,63.94,1,173.16
+c44dbcfb-5a6f-44c4-8a9d-df040238a450,2023-10-13,Data,North America,Premium,2,63.32,5,109.94
+8e0c20b5-f418-4c08-af05-a9d3656fe291,2023-10-14,Tech,Europe,Enterprise,1,11.46,4,183.83
+296c0b12-2856-4d44-a367-1f6510c85b90,2023-10-15,Design,Europe,Trial,3,21.76,1,179.76
+cb741580-fe06-42d0-ad80-b3a052003e14,2023-10-16,Marketing,North America,Premium,6,44.49,3,229.2
+fe4eeef4-28c8-44db-949d-e7acd6654bfc,2023-10-17,Marketing,Europe,Enterprise,10,71.24,3,95.87
+5097f05c-d97c-4370-a1c5-20b8e6250c0f,2023-10-18,Business,Europe,Free,6,67.53,5,210.74
+d152591f-1e6a-4486-905c-28df03121d92,2023-10-19,Design,LATAM,Free,9,13.01,2,96.72
+7fa09eec-df5c-4ed1-9cc7-e91e582d5d92,2023-10-20,Business,LATAM,Premium,7,12.92,5,202.61
+e62f182f-ea89-4cbb-969e-b8dbc7c82b8b,2023-10-21,Marketing,North America,Trial,9,28.32,4,233.33
+ea248825-3e95-4706-aec2-00b3eb85a644,2023-10-22,Business,LATAM,Premium,8,20.83,3,109.63
+f7f7f1ce-e7d0-4d35-8621-523a9e19832f,2023-10-23,Design,Europe,Free,6,62.24,5,165.91
+3a0378fd-850a-41a0-b1ee-6808d7967492,2023-10-24,Marketing,Asia,Free,10,43.3,4,188.58
+059a0047-cc1d-40d4-b39d-e6668a3608af,2023-10-25,Business,North America,Trial,1,60.67,3,80.75
+c3b1550f-1d6a-450b-bd3c-e780ad9615c4,2023-10-26,Marketing,North America,Free,1,16.58,2,13.61
+0b73beef-33a6-43be-8ecb-7933f222d9fe,2023-10-27,Design,LATAM,Premium,6,5.05,4,131.78
+86fcdc3a-9807-4c4e-ad3b-302edbfec652,2023-10-28,Tech,Europe,Enterprise,4,7.28,5,208.66
+5dd908a8-7008-4bf3-98f1-fd4b7303fa7b,2023-10-29,Design,North America,Premium,0,38.68,1,188.15
+62614bf6-8f18-4f5f-b540-1df3fb6d9502,2023-10-30,Design,North America,Free,7,75.66,2,178.03
+0e705e6e-543a-4317-ac9d-f197b6a7f369,2023-10-31,Data,LATAM,Free,8,55.48,2,136.99
+ae41d041-ef10-40d6-8680-919389cffd67,2023-11-01,Data,Asia,Premium,6,53.05,1,212.96
+503ebc10-09b2-4969-b3f1-685a7d994aa7,2023-11-02,Data,Europe,Premium,3,30.55,1,105.81
+4fcf3d49-cb40-4ff0-b2ba-c7b994065e57,2023-11-03,Tech,Europe,Trial,1,38.9,3,76.68
+605d7b79-f232-4455-9a1a-c6a72cc27ce8,2023-11-04,Data,Asia,Enterprise,7,74.53,1,68.9
+1e8fb33e-302c-46a8-951a-fcf8269350f5,2023-11-05,Tech,LATAM,Trial,0,56.94,1,45.49
+098b1594-13b5-4487-90a8-8133b2aad3cf,2023-11-06,Business,Europe,Premium,3,30.49,2,91.62
+cd1b1407-5c79-4166-bcd8-534d03d43015,2023-11-07,Tech,Asia,Trial,1,31.09,4,82.9
+96b41fa2-8f04-494b-b5a9-1ef81077dac6,2023-11-08,Marketing,Asia,Enterprise,5,14.33,5,137.78
+f215d07e-4fed-4bab-bf43-1110b99285be,2023-11-09,Data,Europe,Premium,0,26.33,3,243.18
+06786bb4-a070-46c4-a064-9ea44a2d4e3c,2023-11-10,Data,Asia,Free,4,26.43,2,174.11
+7c78ba4e-c169-40fb-844e-0f2a893954e6,2023-11-11,Business,Europe,Free,4,65.02,5,171.53
+5f096583-fc58-456d-add0-8945023f2dd4,2023-11-12,Business,North America,Enterprise,4,35.51,4,145.66
+89d063cf-463f-4dad-aca6-a57b71e6d3d7,2023-11-13,Data,LATAM,Premium,7,20.64,4,20.64
+6414271a-a1c2-4810-aa88-0c1b47e3784c,2023-11-14,Design,North America,Trial,5,45.1,1,178.5
+ea22e854-e887-4ee7-bd99-768666f01c53,2023-11-15,Tech,Asia,Trial,0,50.99,5,186.52
+92c55832-6de6-41e9-b7dc-bb895f07f00a,2023-11-16,Data,North America,Enterprise,10,77.36,2,160.78
+1cdff6d1-8fba-42f9-a791-fa48ac4b5a0f,2023-11-17,Data,North America,Free,0,40.06,5,230.81
+8faa5d59-16e1-4c64-8a50-29ef1af84c9d,2023-11-18,Tech,North America,Trial,6,76.71,1,165.7
+011717fe-7b04-4bba-8fda-8a2c061f7cad,2023-11-19,Design,Europe,Premium,9,54.48,2,28.79
+c3fdb569-4b31-466d-bec0-c00573a40dfe,2023-11-20,Business,LATAM,Premium,8,9.91,3,31.71
+7781359b-cd75-4829-ac94-6f6b737e3a50,2023-11-21,Data,Asia,Enterprise,6,33.37,5,50.06
+d24a02db-ed8d-409e-ba77-9ff697718acf,2023-11-22,Marketing,Europe,Premium,2,28.7,1,244.13
+d0cff403-bf0d-47ab-a8e2-5d683c005149,2023-11-23,Business,LATAM,Premium,1,23.01,2,149.61
+d4198bf6-58a1-40bf-8c64-b0efb14f971a,2023-11-24,Design,Asia,Free,10,32.01,1,210.31
+d2731086-8bca-4f09-b23e-762d76dc22ee,2023-11-25,Business,North America,Free,2,56.94,3,217.88
+a20de35f-d6a0-4886-a15b-daf5569e53af,2023-11-26,Data,LATAM,Trial,3,52.24,4,226.12
+3d22d870-efe7-48ab-80de-dc9a2f93a291,2023-11-27,Business,Europe,Premium,0,73.73,1,240.73
+b48e36d4-fbf6-42a4-84e7-9583ac7f8ac8,2023-11-28,Tech,Asia,Premium,2,44.14,5,88.14
+e1f2e7ed-30f8-4e32-ac5e-e0ea887635e9,2023-11-29,Design,Asia,Enterprise,0,71.28,2,224.14
+9da67c54-9e9d-4c64-8181-b6483ae1252c,2023-11-30,Design,Asia,Trial,7,36.6,4,100.34
+3e30a1cf-4a5d-4417-9514-45273a51633e,2023-12-01,Design,Europe,Trial,10,52.8,5,53.08
+855796ff-7dd0-44b2-8910-26a9f4b3b570,2023-12-02,Business,LATAM,Trial,1,56.74,1,53.08
+1cd29c6b-4ac6-4abf-90e8-a020f44974f6,2023-12-03,Marketing,Europe,Premium,10,68.69,1,112.77
+5d520d1f-0d6c-4031-8a10-0e3aace06028,2023-12-04,Marketing,Asia,Free,10,31.64,4,86.21
+da45fd62-db10-49c4-96cb-18633ea5c5bc,2023-12-05,Data,Europe,Free,0,8.82,1,6.8
+23659e97-a549-42cc-8426-627c569c3b59,2023-12-06,Design,Europe,Free,3,57.02,1,62.04
+5f19cab2-f5c2-4011-b084-87f03e2d0154,2023-12-07,Data,LATAM,Trial,6,7.07,4,89.06
+ffb4cc1f-6d64-4779-b467-f80e2473806c,2023-12-08,Marketing,Asia,Trial,4,57.66,5,50.5
+a99ee1c5-15d9-4bc7-9fb3-a1f5878f332d,2023-12-09,Tech,North America,Premium,4,21.32,4,28.45
+f7ac539d-f406-4731-b444-ab7113073963,2023-12-10,Tech,Asia,Trial,7,3.11,1,138.31
+c3d070ff-d7e6-43c4-bd35-75530a94e3db,2023-12-11,Business,Asia,Premium,2,4.41,1,128.16
+bbbf2a9b-6ae0-4375-8a56-1d506cd2792b,2023-12-12,Marketing,North America,Enterprise,7,63.9,2,31.84
+28aec322-6f6d-4364-8d81-2d56af5f0fd5,2023-12-13,Marketing,Europe,Free,8,51.58,3,28.78
+7d3b4e83-9052-4a27-9f0b-cb5fd49c6677,2023-12-14,Business,North America,Enterprise,5,75.42,5,114.68
+84bb0475-e177-42df-b8d5-5c2f2e7bb809,2023-12-15,Design,Asia,Trial,10,11.52,3,179.56
+61fc1e4c-3a7e-4518-916e-bfa7e61d2c7e,2023-12-16,Data,LATAM,Trial,1,2.0,2,189.35
+910babf3-b607-46fa-9688-40b2668ed3fe,2023-12-17,Business,LATAM,Trial,6,14.83,4,97.38
+dfb72065-bd1b-46a7-bd0c-04e8ae07e2cd,2023-12-18,Data,Europe,Premium,0,56.08,3,102.19
+6b0907b9-f722-486b-8a36-bb90d3c129d8,2023-12-19,Business,LATAM,Enterprise,10,6.28,4,17.55
+df608311-77ee-4354-9a53-1ac39ba065bb,2023-12-20,Data,Europe,Trial,1,2.63,1,88.16
+a62fa9a9-c2f0-4608-9e98-d51569423650,2023-12-21,Data,LATAM,Premium,10,22.16,5,68.32
+0b55b7b2-78c2-4859-9bbf-157f7b118ddf,2023-12-22,Tech,LATAM,Trial,10,31.86,4,246.38
+4d44b892-d46d-41cd-b503-752fcf6e7535,2023-12-23,Data,Asia,Premium,8,54.05,2,237.88
+b68c6da8-edcc-4a03-bc8c-01a154615fd3,2023-12-24,Business,North America,Free,10,50.72,5,34.35
+8f1aeca6-0c36-4e01-9593-abe5a25d656a,2023-12-25,Design,North America,Premium,9,39.11,1,201.98
+add402cf-24b5-4783-baa6-0ac365686ee8,2023-12-26,Tech,Europe,Premium,4,14.92,5,148.33
+59d4ed78-f534-4aa6-b795-59836b1576ac,2023-12-27,Marketing,North America,Premium,0,31.11,5,134.32
+3ee8c5d3-6d9c-4779-bbd3-03fbf7a8a678,2023-12-28,Data,LATAM,Free,4,58.2,3,82.02
+dd910bcd-213b-48dc-ae99-119c7daa612f,2023-12-29,Design,LATAM,Enterprise,4,71.84,1,44.51
+b2f6efb9-77e3-4997-8657-d25de69854e8,2023-12-30,Tech,LATAM,Premium,4,38.81,2,135.19
+ef300c6e-1a90-4d03-a5a9-7913b867aa77,2023-12-31,Marketing,LATAM,Enterprise,5,8.92,3,98.58
+d1072d22-f97e-4658-85bd-4ea6c9fb8746,2024-01-01,Tech,Europe,Enterprise,2,7.95,4,137.87
+ddc74ebb-b14a-4154-8b56-d6bdeec5a146,2024-01-02,Data,North America,Trial,3,42.28,2,147.87
+c101f986-c655-4d95-b010-0529e6e49167,2024-01-03,Data,North America,Enterprise,9,45.1,1,142.65
+6b12d4e5-bf45-4a39-8b0f-1f325afefc7e,2024-01-04,Tech,Europe,Free,1,12.76,5,60.26
+7a301310-4187-4b88-8683-53e49d7456b2,2024-01-05,Data,LATAM,Premium,0,4.8,2,176.13
+beae9ae5-bd6a-4314-ad56-13507d589a57,2024-01-06,Marketing,North America,Enterprise,5,41.02,1,218.88
+8f10fae0-5980-4ddc-aed7-74d662e5c62a,2024-01-07,Business,Asia,Enterprise,0,32.48,2,138.15
+d2d8e6b4-4d4a-40cb-8c4c-3d77d5741cc7,2024-01-08,Tech,Europe,Enterprise,1,34.62,2,196.67
+8905b311-cb34-48f7-8693-6e7823223a54,2024-01-09,Design,LATAM,Free,5,21.17,2,241.37
+065ab62d-f051-42fa-82cc-29ee471abc2a,2024-01-10,Tech,Europe,Enterprise,5,45.1,1,54.98
+edd0adff-598e-4ad2-9e6c-43e9bb2276ac,2024-01-11,Tech,Europe,Free,8,77.15,2,40.78
+9f478ffc-af16-49f6-a218-db1d5ce41740,2024-01-12,Design,Asia,Enterprise,8,50.53,4,86.57
+b9148d63-c484-4bdb-828d-f85b5cad8f37,2024-01-13,Design,LATAM,Premium,5,40.21,5,62.73
+c63980e0-57ad-42ea-89cb-60ec4ff73652,2024-01-14,Tech,Europe,Free,2,9.64,5,4.51
+2b707b44-8499-45d3-afb5-fb0ed660da95,2024-01-15,Marketing,Europe,Enterprise,9,55.81,1,65.31
+7177fe87-2f9d-41f5-946d-08160a01401e,2024-01-16,Data,Asia,Premium,10,42.21,3,156.65
+c6203413-89d4-4455-8f86-afae76718e16,2024-01-17,Design,North America,Enterprise,7,1.53,2,6.22
+894264db-1182-4b88-bd18-7b090fb32e61,2024-01-18,Data,North America,Trial,7,26.43,2,148.98
+24bfe19e-3a44-46be-af96-a3fa0d22fd1e,2024-01-19,Data,Europe,Enterprise,8,70.21,5,204.51
+c01bc80a-8226-42ac-8227-0ed3447e2ca4,2024-01-20,Business,LATAM,Enterprise,3,3.38,3,212.25
+9daddeb8-804e-422d-b3ce-33cb2d76474a,2024-01-21,Business,North America,Enterprise,7,58.43,4,176.99
+e9554bfc-4808-4bde-bb6b-dec863b71986,2024-01-22,Tech,Europe,Trial,3,61.46,5,221.7
+7bda8258-e3be-44a7-8f1d-63efe0810805,2024-01-23,Business,Europe,Free,6,16.44,5,42.89
+204c7061-a707-4e7f-a5c0-f7f1eaa4dffe,2024-01-24,Design,Europe,Free,0,68.19,2,201.21
+ab5a4c46-379f-4c81-8801-8b2e53a01ce1,2024-01-25,Business,LATAM,Premium,6,62.68,3,242.31
+364d4e8e-7129-447f-ad9e-99c79553c99a,2024-01-26,Tech,North America,Free,7,56.92,2,88.66
+602c7033-2e50-43b6-9993-a200ca350cf5,2024-01-27,Tech,LATAM,Enterprise,0,21.23,2,33.26
+5e46245d-35ec-4439-8da4-aca305e38468,2024-01-28,Design,LATAM,Trial,3,66.34,4,104.84
+7ba8c8d7-6d24-4698-9d15-54fff989f562,2024-01-29,Design,LATAM,Enterprise,10,25.46,5,143.82
+744d2d7e-d897-4575-aae7-22a4d8930b10,2024-01-30,Data,LATAM,Free,7,75.18,2,246.39
+ad4288fe-7b0c-426d-9774-38c7211e48cb,2024-01-31,Design,Asia,Premium,0,16.16,5,43.44
+091775d7-829c-4553-a9a2-c270f83c527e,2024-02-01,Data,Asia,Free,1,50.22,3,70.88
+0fc49d1d-01e5-4453-906b-462dcc9f48f1,2024-02-02,Data,Europe,Enterprise,10,23.52,1,210.17
+e6716f33-4d49-42b2-a0cb-b07484e6c971,2024-02-03,Business,Asia,Free,5,33.13,2,173.36
+f830bfe8-d19e-40fa-a66d-49f3ffeed977,2024-02-04,Tech,North America,Enterprise,2,5.08,3,15.68

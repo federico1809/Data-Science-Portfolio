@@ -1,0 +1,26 @@
+clientes;vendedores;sucursales;ciudad sucursal;producto;método pago;facturas;detalle factura
+client id;vendedor id;sucursal id;ciudad id;producto id;mp id;factura id;detalle id
+nombre;sucursal id;ciudad id;nombre ciudad;nombre producto;nombre mp;producto id;factura id
+edad;nombre vend;nombresucursal;;marca producto;;cliente id;producto id
+género;;;;precio;;vendedor id;cantidad producto
+teléfono;;;;;;sucursal id;sub total
+dirección;;;;;;mp id;
+email;;;;;;fecha;
+;;;;;;descuento;
+;;;;;;total;
+;;;;;;;
+;;;;;;;
+dim;;;;;;;hechos
+cliente;vendedor;sucursal;fecha;producto;metodo_pago;;ventas
+ciente_id;vendedor_id;sucursal_id;fecha_id;producto_id;mp_id;;venta_id
+nombre_clien;sucursal_id;nombre_suc;año;nombre_prod;metodo;;fecha_id
+edad;nombre_vend;;trimestre;marca;;;cliente_id
+género;;;mes ;;;;vendedor_id
+teléfono;;;día;;;;sucursal_id
+dirección;;;dia_semana;;;;producto_id
+email;;;;;;;mp_id
+;;;;;;;cantidad_prod
+;;;;;;;precio_unit
+;;;;;;;subtotal
+;;;;;;;descuento
+;;;;;;;total venta

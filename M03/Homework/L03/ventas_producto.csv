@@ -1,0 +1,7 @@
+ID_venta,Fecha_venta,Producto,Categoría,Cantidad,Precio_unitario,Región
+1001,2023-01-05,Auriculares,Audio,2.0,25.0,Norte
+1002,2023-01-06,Auriculares,Audio,1.0,25.0,Norte
+1003,2023-01-06,Mouse,Periféricos,1.0,15.0,Sur
+1004,2023-01-07,Mouse,Periféricos,2.0,15.0,Sur
+1005,2023-01-07,Monitor,Pantallas,,200.0,Norte
+1006,,monitor,pantallas,1.0,200.0,Norte
