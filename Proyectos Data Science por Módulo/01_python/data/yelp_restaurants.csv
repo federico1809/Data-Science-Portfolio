@@ -1,0 +1,464 @@
+alias,title,id,name,price,rating,review_count,distance,coordinates_latitude,coordinates_longitude,location_address1,city
+asianfusion,Asian Fusion,K3ukx2e11xTRtYBU01dmrA,Salty Flame,No especificado,4.4,184,9568.050891007853,25.76022,-80.19267,1414 Brickell Ave,Miami
+steak,Steakhouses,K3ukx2e11xTRtYBU01dmrA,Salty Flame,No especificado,4.4,184,9568.050891007853,25.76022,-80.19267,1414 Brickell Ave,Miami
+cocktailbars,Cocktail Bars,K3ukx2e11xTRtYBU01dmrA,Salty Flame,No especificado,4.4,184,9568.050891007853,25.76022,-80.19267,1414 Brickell Ave,Miami
+cuban,Cuban,UXHxLN3DcDGI57uDIfCuJA,Old's Havana Cuban Bar & Cocina,Medio,4.4,2965,7035.905419577772,25.7655942148975,-80.2192383373502,1442 SW 8th St,Miami
+bars,Bars,UXHxLN3DcDGI57uDIfCuJA,Old's Havana Cuban Bar & Cocina,Medio,4.4,2965,7035.905419577772,25.7655942148975,-80.2192383373502,1442 SW 8th St,Miami
+venues,Venues & Event Spaces,UXHxLN3DcDGI57uDIfCuJA,Old's Havana Cuban Bar & Cocina,Medio,4.4,2965,7035.905419577772,25.7655942148975,-80.2192383373502,1442 SW 8th St,Miami
+mediterranean,Mediterranean,ix8ifP1jQM9ektdVAs19sQ,Crazy About You,Medio,4.2,2764,9973.468955482575,25.762015277335745,-80.1889859201474,1155 Brickell Bay Dr,Miami
+italian,Italian,ix8ifP1jQM9ektdVAs19sQ,Crazy About You,Medio,4.2,2764,9973.468955482575,25.762015277335745,-80.1889859201474,1155 Brickell Bay Dr,Miami
+spanish,Spanish,ix8ifP1jQM9ektdVAs19sQ,Crazy About You,Medio,4.2,2764,9973.468955482575,25.762015277335745,-80.1889859201474,1155 Brickell Bay Dr,Miami
+italian,Italian,oxtMfBGmVNE18pFVuw7lFg,Fratellino,Alto,4.8,1804,2834.064936518243,25.74917,-80.26011,264 Miracle Mile,Miami
+seafood,Seafood,WqIBKxRUPXH3NqTViAHLxQ,Bayshore Club Bar & Grill,Alto,4.3,938,6023.917796785677,25.72877375829567,-80.2341624,3391 Pan American Dr,Miami
+tradamerican,American,WqIBKxRUPXH3NqTViAHLxQ,Bayshore Club Bar & Grill,Alto,4.3,938,6023.917796785677,25.72877375829567,-80.2341624,3391 Pan American Dr,Miami
+wine_bars,Wine Bars,WqIBKxRUPXH3NqTViAHLxQ,Bayshore Club Bar & Grill,Alto,4.3,938,6023.917796785677,25.72877375829567,-80.2341624,3391 Pan American Dr,Miami
+sportsbars,Sports Bars,z1UW-zeI50bMEtGKFtrjmA,Grails Miami - Restaurant & Sports Bar,Medio,4.4,686,10852.71572211731,25.803184,-80.195219,2800 N Miami Ave,Miami
+newamerican,New American,z1UW-zeI50bMEtGKFtrjmA,Grails Miami - Restaurant & Sports Bar,Medio,4.4,686,10852.71572211731,25.803184,-80.195219,2800 N Miami Ave,Miami
+lounges,Lounges,z1UW-zeI50bMEtGKFtrjmA,Grails Miami - Restaurant & Sports Bar,Medio,4.4,686,10852.71572211731,25.803184,-80.195219,2800 N Miami Ave,Miami
+italian,Italian,eVhl0Yu1ZRWRD2D1OQGsYg,Capriccio Blue Lagoon,No especificado,4.5,124,3183.705118041825,25.78146011787451,-80.28785769999999,5600 Blue Lagoon Dr,Miami
+desserts,Desserts,eVhl0Yu1ZRWRD2D1OQGsYg,Capriccio Blue Lagoon,No especificado,4.5,124,3183.705118041825,25.78146011787451,-80.28785769999999,5600 Blue Lagoon Dr,Miami
+newamerican,New American,pUg9rFqeiSIWcWUqri_47w,Sixty Vines,No especificado,4.7,136,10209.090967065355,25.781526,-80.191181,150 NE 8th St.,Miami
+breakfast_brunch,Breakfast & Brunch,pUg9rFqeiSIWcWUqri_47w,Sixty Vines,No especificado,4.7,136,10209.090967065355,25.781526,-80.191181,150 NE 8th St.,Miami
+wine_bars,Wine Bars,pUg9rFqeiSIWcWUqri_47w,Sixty Vines,No especificado,4.7,136,10209.090967065355,25.781526,-80.191181,150 NE 8th St.,Miami
+sushi,Sushi Bars,O4gh_gZPp1zW9QtC1aMHWw,House of Food Porn,No especificado,4.8,171,12507.730930037038,25.8326319884545,-80.200107379434,197 NW 62nd St,Miami
+asianfusion,Asian Fusion,O4gh_gZPp1zW9QtC1aMHWw,House of Food Porn,No especificado,4.8,171,12507.730930037038,25.8326319884545,-80.200107379434,197 NW 62nd St,Miami
+wine_bars,Wine Bars,O4gh_gZPp1zW9QtC1aMHWw,House of Food Porn,No especificado,4.8,171,12507.730930037038,25.8326319884545,-80.200107379434,197 NW 62nd St,Miami
+argentine,Argentine,Obt7Njta79-1CNtNwhNXiw,Bunbury,Alto,4.6,948,10276.024248591662,25.788458,-80.193363,55 NE 14th St,Miami
+steak,Steakhouses,Obt7Njta79-1CNtNwhNXiw,Bunbury,Alto,4.6,948,10276.024248591662,25.788458,-80.193363,55 NE 14th St,Miami
+cocktailbars,Cocktail Bars,Obt7Njta79-1CNtNwhNXiw,Bunbury,Alto,4.6,948,10276.024248591662,25.788458,-80.193363,55 NE 14th St,Miami
+cuban,Cuban,hZm7TunlrksQbgS0ssXbUg,Versailles,Medio,4.0,6869,3789.5569842271616,25.765389817507295,-80.25287416592283,3555 SW 8th St,Miami
+coffee,Coffee & Tea,hZm7TunlrksQbgS0ssXbUg,Versailles,Medio,4.0,6869,3789.5569842271616,25.765389817507295,-80.25287416592283,3555 SW 8th St,Miami
+sandwiches,Sandwiches,hZm7TunlrksQbgS0ssXbUg,Versailles,Medio,4.0,6869,3789.5569842271616,25.765389817507295,-80.25287416592283,3555 SW 8th St,Miami
+mediterranean,Mediterranean,_tiVacKyfWZjOljFenLwVQ,Giselle Miami,No especificado,4.5,430,10127.920790439312,25.78496366,-80.19341399,15 NE 11th St,Miami
+lounges,Lounges,_tiVacKyfWZjOljFenLwVQ,Giselle Miami,No especificado,4.5,430,10127.920790439312,25.78496366,-80.19341399,15 NE 11th St,Miami
+asianfusion,Asian Fusion,_tiVacKyfWZjOljFenLwVQ,Giselle Miami,No especificado,4.5,430,10127.920790439312,25.78496366,-80.19341399,15 NE 11th St,Miami
+coffee,Coffee & Tea,dYilRUDRuLck9_oC36O8DA,Le Parc Cafe,Medio,4.3,59,1358.0716998266364,25.752923042166735,-80.27449089999999,997 N Greenway Dr,Miami
+breakfast_brunch,Breakfast & Brunch,dYilRUDRuLck9_oC36O8DA,Le Parc Cafe,Medio,4.3,59,1358.0716998266364,25.752923042166735,-80.27449089999999,997 N Greenway Dr,Miami
+cafes,Cafes,dYilRUDRuLck9_oC36O8DA,Le Parc Cafe,Medio,4.3,59,1358.0716998266364,25.752923042166735,-80.27449089999999,997 N Greenway Dr,Miami
+seafood,Seafood,jp8y_UlQW8KE0yAcJ1Jubg,The Fatty Crab,Medio,4.2,714,6718.716350078568,25.7932394,-80.3379343,2000 NW 87th Ave,Miami
+cajun,Cajun/Creole,jp8y_UlQW8KE0yAcJ1Jubg,The Fatty Crab,Medio,4.2,714,6718.716350078568,25.7932394,-80.3379343,2000 NW 87th Ave,Miami
+sportsbars,Sports Bars,jp8y_UlQW8KE0yAcJ1Jubg,The Fatty Crab,Medio,4.2,714,6718.716350078568,25.7932394,-80.3379343,2000 NW 87th Ave,Miami
+bars,Bars,Vfg66BjkL7dwWVS2aXUS8w,The Brightside,Medio,4.8,95,6567.375620207152,25.75106306843526,-80.22250558632564,1721 SW 22nd St,Miami
+desserts,Desserts,Vfg66BjkL7dwWVS2aXUS8w,The Brightside,Medio,4.8,95,6567.375620207152,25.75106306843526,-80.22250558632564,1721 SW 22nd St,Miami
+sandwiches,Sandwiches,Vfg66BjkL7dwWVS2aXUS8w,The Brightside,Medio,4.8,95,6567.375620207152,25.75106306843526,-80.22250558632564,1721 SW 22nd St,Miami
+mediterranean,Mediterranean,xvXGIah0QVNj2uCF7xd2EA,Mint Beirut,No especificado,4.8,65,3152.584446441854,25.771816,-80.264648,4249 W Flagler St,Miami
+lebanese,Lebanese,xvXGIah0QVNj2uCF7xd2EA,Mint Beirut,No especificado,4.8,65,3152.584446441854,25.771816,-80.264648,4249 W Flagler St,Miami
+cuban,Cuban,gmDna9f57vWTlSrdrEuVEg,Sanguich,Medio,4.5,1410,6130.830894006354,25.7656049,-80.2285903,2057 SW 8th St,Miami
+sandwiches,Sandwiches,gmDna9f57vWTlSrdrEuVEg,Sanguich,Medio,4.5,1410,6130.830894006354,25.7656049,-80.2285903,2057 SW 8th St,Miami
+asianfusion,Asian Fusion,EVGPTVYEU65_tvMEBRPIYg,Good Chef Restaurant,Medio,4.7,713,8182.141658104949,25.767682,-80.368058,113 S W 107th Ave,Miami
+bubbletea,Bubble Tea,EVGPTVYEU65_tvMEBRPIYg,Good Chef Restaurant,Medio,4.7,713,8182.141658104949,25.767682,-80.368058,113 S W 107th Ave,Miami
+ramen,Ramen,EVGPTVYEU65_tvMEBRPIYg,Good Chef Restaurant,Medio,4.7,713,8182.141658104949,25.767682,-80.368058,113 S W 107th Ave,Miami
+newmexican,New Mexican Cuisine,dS1PwKBd4ya9PG1d4cpkwQ,Tacos & Cantina La Potranca,Medio,4.5,137,7129.228478247389,25.798730247955724,-80.33776019999999,2600 NW 87th Ave,Miami
+tacos,Tacos,dS1PwKBd4ya9PG1d4cpkwQ,Tacos & Cantina La Potranca,Medio,4.5,137,7129.228478247389,25.798730247955724,-80.33776019999999,2600 NW 87th Ave,Miami
+foodtrucks,Food Trucks,nwY3CmIH75cN85cWBSaOAw,Apocalypse BBQ,Medio,4.3,879,12797.303415150403,25.687992898443856,-80.39359629851486,8695 SW 124th Ave,Miami
+bbq,Barbeque,nwY3CmIH75cN85cWBSaOAw,Apocalypse BBQ,Medio,4.3,879,12797.303415150403,25.687992898443856,-80.39359629851486,8695 SW 124th Ave,Miami
+empanadas,Empanadas,nwY3CmIH75cN85cWBSaOAw,Apocalypse BBQ,Medio,4.3,879,12797.303415150403,25.687992898443856,-80.39359629851486,8695 SW 124th Ave,Miami
+argentine,Argentine,Q9Xq-w4DhTeGA_csODsMCA,Loretta & The Butcher,Alto,4.4,311,5170.824888266938,25.727761,-80.2445689,3195 Commodore Plz,Miami
+breakfast_brunch,Breakfast & Brunch,Q9Xq-w4DhTeGA_csODsMCA,Loretta & The Butcher,Alto,4.4,311,5170.824888266938,25.727761,-80.2445689,3195 Commodore Plz,Miami
+butcher,Butcher,Q9Xq-w4DhTeGA_csODsMCA,Loretta & The Butcher,Alto,4.4,311,5170.824888266938,25.727761,-80.2445689,3195 Commodore Plz,Miami
+peruvian,Peruvian,1h8-r9cLeXxW99HhlRUnlA,CVI.CHE 105,Medio,4.4,5946,10289.40979151124,25.775383,-80.1884004,105 NE 3rd Ave,Miami
+seafood,Seafood,1h8-r9cLeXxW99HhlRUnlA,CVI.CHE 105,Medio,4.4,5946,10289.40979151124,25.775383,-80.1884004,105 NE 3rd Ave,Miami
+gastropubs,Gastropubs,Mb9NIMJZQ3j-w4495B9GNw,Pisco Y Nazca,Medio,4.3,247,3145.352272709099,25.749870948201973,-80.25681713663498,101 Miracle Mile,Miami
+peruvian,Peruvian,Mb9NIMJZQ3j-w4495B9GNw,Pisco Y Nazca,Medio,4.3,247,3145.352272709099,25.749870948201973,-80.25681713663498,101 Miracle Mile,Miami
+cocktailbars,Cocktail Bars,Mb9NIMJZQ3j-w4495B9GNw,Pisco Y Nazca,Medio,4.3,247,3145.352272709099,25.749870948201973,-80.25681713663498,101 Miracle Mile,Miami
+asianfusion,Asian Fusion,UhmxPd9LcxZRmykdIUNM5g,ConSentido Miami,No especificado,4.5,111,9935.427685427292,25.76032,-80.18948,1331 Brickell Bay Dr,Miami
+seafood,Seafood,UhmxPd9LcxZRmykdIUNM5g,ConSentido Miami,No especificado,4.5,111,9935.427685427292,25.76032,-80.18948,1331 Brickell Bay Dr,Miami
+wine_bars,Wine Bars,UhmxPd9LcxZRmykdIUNM5g,ConSentido Miami,No especificado,4.5,111,9935.427685427292,25.76032,-80.18948,1331 Brickell Bay Dr,Miami
+persian,Persian/Iranian,Jjifi324EdbrMWSW2-ZcKQ,Rumi Persian Cuisine,No especificado,4.9,20,6654.565051559707,25.746275,-80.221992,2490 SW 17th Ave,Miami
+jazzandblues,Jazz & Blues,kIv1SwTV8-v8m67qDFWk1Q,Armstrong Jazz House,No especificado,3.9,123,2809.844465744993,25.749767,-80.260205,271 Miracle Mile,Miami
+french,French,kIv1SwTV8-v8m67qDFWk1Q,Armstrong Jazz House,No especificado,3.9,123,2809.844465744993,25.749767,-80.260205,271 Miracle Mile,Miami
+steak,Steakhouses,kIv1SwTV8-v8m67qDFWk1Q,Armstrong Jazz House,No especificado,3.9,123,2809.844465744993,25.749767,-80.260205,271 Miracle Mile,Miami
+puertorican,Puerto Rican,fV6YXmRerkHKARygmuaM6A,Mofongo,Medio,4.1,686,6809.07139757137,25.765476578806226,-80.22152490264925,1644 SW 8th St,Miami
+latin,Latin American,fV6YXmRerkHKARygmuaM6A,Mofongo,Medio,4.1,686,6809.07139757137,25.765476578806226,-80.22152490264925,1644 SW 8th St,Miami
+portuguese,Portuguese,0FRl-hghB50Gw3CQnasq2Q,Braga Portuguese Restaurant,No especificado,4.8,71,6964.168673520157,25.751148301114853,-80.21853935054354,1401 SW 22nd St,Miami
+indpak,Indian,V3btCvWa1flTBYt2YKea_g,Bombay Darbar,Medio,4.5,1673,5405.961958481842,25.72935,-80.240789,2901 Florida Ave,Miami
+mediterranean,Mediterranean,QQnw1bFxLyamuxn4giIy9g,Sufrat Mediterranean Grill,Medio,4.5,101,8884.862194544405,25.82001,-80.335628,8455 NW 53rd St,Miami
+greek,Greek,QQnw1bFxLyamuxn4giIy9g,Sufrat Mediterranean Grill,Medio,4.5,101,8884.862194544405,25.82001,-80.335628,8455 NW 53rd St,Miami
+lebanese,Lebanese,QQnw1bFxLyamuxn4giIy9g,Sufrat Mediterranean Grill,Medio,4.5,101,8884.862194544405,25.82001,-80.335628,8455 NW 53rd St,Miami
+thai,Thai,Uzs8PA35Qyc8uXKo3yKjqA,Khaosan Road,Medio,4.4,165,3006.3643901469277,25.751469,-80.258076,157 Giralda Ave,Miami
+polish,Polish,H2MNMjMwpBjkBMCc-Qo8zg,Pierogi One,Medio,4.5,63,10410.544287576484,25.783782984924677,-80.18993477450881,990 Biscayne Blvd,Miami
+modern_european,Modern European,H2MNMjMwpBjkBMCc-Qo8zg,Pierogi One,Medio,4.5,63,10410.544287576484,25.783782984924677,-80.18993477450881,990 Biscayne Blvd,Miami
+korean,Korean,0EVWp_KyFdWC9VxJ7Sku1Q,COTE Miami,Muy Alto,4.5,902,11751.444187202473,25.812905772091284,-80.19149139999999,3900 NE 2nd Ave,Miami
+steak,Steakhouses,0EVWp_KyFdWC9VxJ7Sku1Q,COTE Miami,Muy Alto,4.5,902,11751.444187202473,25.812905772091284,-80.19149139999999,3900 NE 2nd Ave,Miami
+cocktailbars,Cocktail Bars,yxPn5n5se97lnNYN5JcAIw,Le Chick,Medio,4.3,1423,10207.989856355258,25.79989504,-80.20052197,310 NW 24th St,Miami
+newamerican,New American,yxPn5n5se97lnNYN5JcAIw,Le Chick,Medio,4.3,1423,10207.989856355258,25.79989504,-80.20052197,310 NW 24th St,Miami
+southern,Southern,yxPn5n5se97lnNYN5JcAIw,Le Chick,Medio,4.3,1423,10207.989856355258,25.79989504,-80.20052197,310 NW 24th St,Miami
+breakfast_brunch,Breakfast & Brunch,4GKmQ1rynV5RUSiaHHenWQ,First Watch,Medio,3.9,496,2844.225718190066,25.77831,-80.29053,5799 NW 7th St,Miami
+cafes,Cafes,4GKmQ1rynV5RUSiaHHenWQ,First Watch,Medio,3.9,496,2844.225718190066,25.77831,-80.29053,5799 NW 7th St,Miami
+tradamerican,American,4GKmQ1rynV5RUSiaHHenWQ,First Watch,Medio,3.9,496,2844.225718190066,25.77831,-80.29053,5799 NW 7th St,Miami
+mexican,Mexican,9h9nMMvnINJWMt7TjJtePw,The Taco Stand,Medio,4.5,1634,10191.067746631868,25.800782252405774,-80.20131579640305,313 NW 25th St,Miami
+steak,Steakhouses,t2wmQb6fCHXEXylvQ_b3lw,Carnicero Steakhouse,Alto,4.1,156,3716.7477071688063,25.7719163,-80.2575827,3805 W Flagler St,Miami
+bakeries,Bakeries,Gx7zWzRfytSEmiz8a7Yw5w,Bachour,Medio,4.4,870,2710.7210982711745,25.7540587,-80.2609892,2020 Salzedo St,Miami
+newamerican,New American,Gx7zWzRfytSEmiz8a7Yw5w,Bachour,Medio,4.4,870,2710.7210982711745,25.7540587,-80.2609892,2020 Salzedo St,Miami
+comfortfood,Comfort Food,Gx7zWzRfytSEmiz8a7Yw5w,Bachour,Medio,4.4,870,2710.7210982711745,25.7540587,-80.2609892,2020 Salzedo St,Miami
+peruvian,Peruvian,6YSnnPPC54p0KaIqqv7rYA,Chifa Du Kang Peruvian Chinese Restaurant - Doral,Medio,4.7,118,6341.249648424779,25.799344,-80.324601,2777 NW 79th Ave,Miami
+chinese,Chinese,6YSnnPPC54p0KaIqqv7rYA,Chifa Du Kang Peruvian Chinese Restaurant - Doral,Medio,4.7,118,6341.249648424779,25.799344,-80.324601,2777 NW 79th Ave,Miami
+cocktailbars,Cocktail Bars,nTsEr_CQqsA8zwLV4kT5nA,Cafe La Trova,Medio,4.4,1216,7895.952565491261,25.7662659,-80.21063,971 SW 8th St,Miami
+cuban,Cuban,nTsEr_CQqsA8zwLV4kT5nA,Cafe La Trova,Medio,4.4,1216,7895.952565491261,25.7662659,-80.21063,971 SW 8th St,Miami
+venues,Venues & Event Spaces,nTsEr_CQqsA8zwLV4kT5nA,Cafe La Trova,Medio,4.4,1216,7895.952565491261,25.7662659,-80.21063,971 SW 8th St,Miami
+cuban,Cuban,CbEQK2S7axhORTDX0id5FQ,La Carreta Restaurant,Medio,3.8,718,4752.036509851842,25.794802728315297,-80.2791273791667,2100 NW 42nd Ave,Miami
+pizza,Pizza,wrNU7Kg1KllhIikzyvLHcg,A Little Bit of Philly,Bajo,4.6,405,6367.255255076937,25.809897,-80.289642,3940 Curtiss Pkwy,Miami
+cheesesteaks,Cheesesteaks,wrNU7Kg1KllhIikzyvLHcg,A Little Bit of Philly,Bajo,4.6,405,6367.255255076937,25.809897,-80.289642,3940 Curtiss Pkwy,Miami
+sandwiches,Sandwiches,wrNU7Kg1KllhIikzyvLHcg,A Little Bit of Philly,Bajo,4.6,405,6367.255255076937,25.809897,-80.289642,3940 Curtiss Pkwy,Miami
+mexican,Mexican,jiTLUXjZYExf_G3YhH1ILw,La Diosa Taqueria,Medio,4.6,518,3889.910909526348,25.764597,-80.251447,3458 SW 8th St,Miami
+cuban,Cuban,s9-OFJrBridRA7yYZ-5g3g,Bored Cuban,No especificado,4.3,95,3866.7656698882333,25.77965,-80.26363,831 NW 42nd Ave,Miami
+desserts,Desserts,s9-OFJrBridRA7yYZ-5g3g,Bored Cuban,No especificado,4.3,95,3866.7656698882333,25.77965,-80.26363,831 NW 42nd Ave,Miami
+acaibowls,Acai Bowls,s9-OFJrBridRA7yYZ-5g3g,Bored Cuban,No especificado,4.3,95,3866.7656698882333,25.77965,-80.26363,831 NW 42nd Ave,Miami
+thai,Thai,6LbVL8LOVJGpytjzi4OkNw,Atchana's Homegrown Thai,Medio,4.4,372,5117.684513213753,25.7278220860767,-80.2451561763883,3194 Commodore Plz,Miami
+burgers,Burgers,U2O--3efcztYT5ZmsQgIbA,Lala’s Burgers,No especificado,4.4,26,3496.9230279736953,25.732068462554977,-80.31427597999216,7360 SW 41 St,Miami
+popuprestaurants,Pop-Up Restaurants,U2O--3efcztYT5ZmsQgIbA,Lala’s Burgers,No especificado,4.4,26,3496.9230279736953,25.732068462554977,-80.31427597999216,7360 SW 41 St,Miami
+bubbletea,Bubble Tea,xsP-dEKEbP-l_FdVG3cspQ,Domoishi,No especificado,4.8,4,4799.650079950485,25.770871819795737,-80.3315906971693,8343 W Flagler St,Miami
+poke,Poke,xsP-dEKEbP-l_FdVG3cspQ,Domoishi,No especificado,4.8,4,4799.650079950485,25.770871819795737,-80.3315906971693,8343 W Flagler St,Miami
+ramen,Ramen,xsP-dEKEbP-l_FdVG3cspQ,Domoishi,No especificado,4.8,4,4799.650079950485,25.770871819795737,-80.3315906971693,8343 W Flagler St,Miami
+latin,Latin American,wjTfEfdtzFZEbX6t7vC9JQ,Casa Juan Restaurant,Medio,3.9,282,2928.352215894054,25.7781036,-80.2896741,5755 NW 7th St,Miami
+cuban,Cuban,wjTfEfdtzFZEbX6t7vC9JQ,Casa Juan Restaurant,Medio,3.9,282,2928.352215894054,25.7781036,-80.2896741,5755 NW 7th St,Miami
+italian,Italian,IkTb-zHxAGNqeEvyTaln4g,Cèrto,Medio,4.7,378,768.1161759082453,25.75976,-80.28801,1200 SW 57th Ave,Miami
+pizza,Pizza,IkTb-zHxAGNqeEvyTaln4g,Cèrto,Medio,4.7,378,768.1161759082453,25.75976,-80.28801,1200 SW 57th Ave,Miami
+venues,Venues & Event Spaces,IkTb-zHxAGNqeEvyTaln4g,Cèrto,Medio,4.7,378,768.1161759082453,25.75976,-80.28801,1200 SW 57th Ave,Miami
+ramen,Ramen,sAqV3GmjGLn0w5qUpZpvvQ,Ichimi - Gables,Medio,4.4,1604,2744.7976785741557,25.75003305410282,-80.26082076877175,2330 Salzedo St,Miami
+asianfusion,Asian Fusion,sAqV3GmjGLn0w5qUpZpvvQ,Ichimi - Gables,Medio,4.4,1604,2744.7976785741557,25.75003305410282,-80.26082076877175,2330 Salzedo St,Miami
+izakaya,Izakaya,sAqV3GmjGLn0w5qUpZpvvQ,Ichimi - Gables,Medio,4.4,1604,2744.7976785741557,25.75003305410282,-80.26082076877175,2330 Salzedo St,Miami
+mideastern,Middle Eastern,yE9omO1xk19uk9kzmgW9Ew,Motek Coral Gables,No especificado,4.3,395,3243.794299119027,25.75006090457327,-80.2558081319749,45 Miracle Mile,Miami
+mediterranean,Mediterranean,yE9omO1xk19uk9kzmgW9Ew,Motek Coral Gables,No especificado,4.3,395,3243.794299119027,25.75006090457327,-80.2558081319749,45 Miracle Mile,Miami
+sandwiches,Sandwiches,yE9omO1xk19uk9kzmgW9Ew,Motek Coral Gables,No especificado,4.3,395,3243.794299119027,25.75006090457327,-80.2558081319749,45 Miracle Mile,Miami
+mideastern,Middle Eastern,Blv0tBolGOlOINW6v1Sp-Q,Levant,No especificado,4.5,133,3008.9999851566495,25.749003,-80.258292,2415 Ponce De Leon,Miami
+mediterranean,Mediterranean,Blv0tBolGOlOINW6v1Sp-Q,Levant,No especificado,4.5,133,3008.9999851566495,25.749003,-80.258292,2415 Ponce De Leon,Miami
+arabian,Arabic,Blv0tBolGOlOINW6v1Sp-Q,Levant,No especificado,4.5,133,3008.9999851566495,25.749003,-80.258292,2415 Ponce De Leon,Miami
+newamerican,New American,rkfps2EBXywsxWwACpHVeQ,Gordon Ramsay Hell's Kitchen,Alto,3.9,538,10286.804360173603,25.770932364168953,-80.18731559999999,333 Biscayne Blvd Way,Miami
+steak,Steakhouses,rkfps2EBXywsxWwACpHVeQ,Gordon Ramsay Hell's Kitchen,Alto,3.9,538,10286.804360173603,25.770932364168953,-80.18731559999999,333 Biscayne Blvd Way,Miami
+cocktailbars,Cocktail Bars,rkfps2EBXywsxWwACpHVeQ,Gordon Ramsay Hell's Kitchen,Alto,3.9,538,10286.804360173603,25.770932364168953,-80.18731559999999,333 Biscayne Blvd Way,Miami
+mediterranean,Mediterranean,8llX2xvJjma2isxeow684A,Casa Mariano,No especificado,4.7,131,6499.593740786041,25.79779,-80.32954,8200 NW 27th St,Miami
+chinese,Chinese,oiFJpaLxJYO0WzSEhYWmJg,China Spot Miami,No especificado,5.0,1,10500.965895559915,25.79501109,-80.19422326,1900 NE Miami Ct,Miami
+seafood,Seafood,IGRrxE67NkYm3GnegZ3YWQ,Catch Of The Day,Medio,3.6,713,4037.480805113507,25.78224,-80.26442,1050 NW 42nd Ave,Miami
+raw_food,Live/Raw Food,IGRrxE67NkYm3GnegZ3YWQ,Catch Of The Day,Medio,3.6,713,4037.480805113507,25.78224,-80.26442,1050 NW 42nd Ave,Miami
+sportsbars,Sports Bars,IGRrxE67NkYm3GnegZ3YWQ,Catch Of The Day,Medio,3.6,713,4037.480805113507,25.78224,-80.26442,1050 NW 42nd Ave,Miami
+italian,Italian,LZoL_aJIxVnhjzXilIpD5w,MIKA,No especificado,4.3,47,3144.7850259102042,25.74433836,-80.25830571,3007 Ponce De Leon,Miami
+seafood,Seafood,LZoL_aJIxVnhjzXilIpD5w,MIKA,No especificado,4.3,47,3144.7850259102042,25.74433836,-80.25830571,3007 Ponce De Leon,Miami
+bars,Bars,LZoL_aJIxVnhjzXilIpD5w,MIKA,No especificado,4.3,47,3144.7850259102042,25.74433836,-80.25830571,3007 Ponce De Leon,Miami
+newamerican,New American,GXUoFGyTH-iSHRO-NG2HZA,Naked Farmer,Medio,4.4,115,3048.426844220362,25.75156,-80.25763,137 Giralda Ave,Miami
+salad,Salad,GXUoFGyTH-iSHRO-NG2HZA,Naked Farmer,Medio,4.4,115,3048.426844220362,25.75156,-80.25763,137 Giralda Ave,Miami
+vegan,Vegan,GXUoFGyTH-iSHRO-NG2HZA,Naked Farmer,Medio,4.4,115,3048.426844220362,25.75156,-80.25763,137 Giralda Ave,Miami
+caribbean,Caribbean,LPVv4wk9gwGlIEdfZJRaHQ,Jrk - Miami,Medio,4.4,94,9647.49438024707,25.77529,-80.19498,95 NW 1st St,Miami
+argentine,Argentine,ySvD3X1axfzycHel6T9teA,La Cabrera,No especificado,5.0,3,11385.442473108791,25.807482,-80.193382,3250 Buena Vista Blvd,Miami
+steak,Steakhouses,ySvD3X1axfzycHel6T9teA,La Cabrera,No especificado,5.0,3,11385.442473108791,25.807482,-80.193382,3250 Buena Vista Blvd,Miami
+bbq,Barbeque,ySvD3X1axfzycHel6T9teA,La Cabrera,No especificado,5.0,3,11385.442473108791,25.807482,-80.193382,3250 Buena Vista Blvd,Miami
+breakfast_brunch,Breakfast & Brunch,hZ66PVSH6Miscv2n8KxAEg,Greenstreet Cafe,Medio,4.2,2559,5273.470340485704,25.72676,-80.24405,3468 Main Hwy,Miami
+tradamerican,American,hZ66PVSH6Miscv2n8KxAEg,Greenstreet Cafe,Medio,4.2,2559,5273.470340485704,25.72676,-80.24405,3468 Main Hwy,Miami
+cocktailbars,Cocktail Bars,hZ66PVSH6Miscv2n8KxAEg,Greenstreet Cafe,Medio,4.2,2559,5273.470340485704,25.72676,-80.24405,3468 Main Hwy,Miami
+seafood,Seafood,fFR_1Ct8v1g9c-aN43BA4w,La Pata Gorda,No especificado,4.6,165,2891.852275445524,25.7492168,-80.25945604526306,232 Miracle Mile,Miami
+greek,Greek,xbP0RbYjeBeaey8vaZWwGA,The Greek Street,No especificado,5.0,1,3014.782072076099,25.731804678814296,-80.3070565,6970 SW 40th St,Miami
+mediterranean,Mediterranean,xbP0RbYjeBeaey8vaZWwGA,The Greek Street,No especificado,5.0,1,3014.782072076099,25.731804678814296,-80.3070565,6970 SW 40th St,Miami
+bakeries,Bakeries,bAT-izgYtb6qUhd0rraOvQ,Bobe Kitchen & Bakery,Medio,4.7,65,10249.420787153475,25.777935642342687,-80.1895698,236 NE 4th St,Miami
+breakfast_brunch,Breakfast & Brunch,bAT-izgYtb6qUhd0rraOvQ,Bobe Kitchen & Bakery,Medio,4.7,65,10249.420787153475,25.777935642342687,-80.1895698,236 NE 4th St,Miami
+mediterranean,Mediterranean,bAT-izgYtb6qUhd0rraOvQ,Bobe Kitchen & Bakery,Medio,4.7,65,10249.420787153475,25.777935642342687,-80.1895698,236 NE 4th St,Miami
+bars,Bars,iilZWFBmVXh0b9DkYzbERQ,Koko,No especificado,4.3,255,5519.02731019751,25.73015,-80.23905,2856 Tigertail Ave,Miami
+mexican,Mexican,iilZWFBmVXh0b9DkYzbERQ,Koko,No especificado,4.3,255,5519.02731019751,25.73015,-80.23905,2856 Tigertail Ave,Miami
+newamerican,New American,_WzrhI273PHyyBS1oNKwMQ,Hillstone Restaurant,Alto,3.6,1351,2942.9612560142045,25.7499,-80.25892,201 Miracle Mile,Miami
+sushi,Sushi Bars,_WzrhI273PHyyBS1oNKwMQ,Hillstone Restaurant,Alto,3.6,1351,2942.9612560142045,25.7499,-80.25892,201 Miracle Mile,Miami
+greek,Greek,XxQ-z1_U5ByzAn6IuYy4aA,Meraki Greek Bistro,Medio,4.2,368,5287.595987296073,25.7270587,-80.24368423,3462 Main Hwy,Miami
+seafood,Seafood,XxQ-z1_U5ByzAn6IuYy4aA,Meraki Greek Bistro,Medio,4.2,368,5287.595987296073,25.7270587,-80.24368423,3462 Main Hwy,Miami
+beer_and_wine,"Beer, Wine & Spirits",XxQ-z1_U5ByzAn6IuYy4aA,Meraki Greek Bistro,Medio,4.2,368,5287.595987296073,25.7270587,-80.24368423,3462 Main Hwy,Miami
+bubbletea,Bubble Tea,-3U1K-W87mtmRdNO4d-UUg,Sovereign,Medio,4.6,199,10219.259391294681,25.774806697612405,-80.1889633,22 NE 3rd Ave,Miami
+poke,Poke,-3U1K-W87mtmRdNO4d-UUg,Sovereign,Medio,4.6,199,10219.259391294681,25.774806697612405,-80.1889633,22 NE 3rd Ave,Miami
+panasian,Pan Asian,-3U1K-W87mtmRdNO4d-UUg,Sovereign,Medio,4.6,199,10219.259391294681,25.774806697612405,-80.1889633,22 NE 3rd Ave,Miami
+latin,Latin American,x9AjrNAXK2H8MNeklHp9Qw,Paseo Catracho,Bajo,4.2,75,3199.6930240121533,25.778421,-80.273284,4750 NW 7th St,Miami
+italian,Italian,4aKqK04ol56sq76S9pG3ZQ,Salumeria 104,Medio,4.5,296,3101.3592403827247,25.75,-80.25719,117 Miracle Mile,Miami
+delis,Delis,4aKqK04ol56sq76S9pG3ZQ,Salumeria 104,Medio,4.5,296,3101.3592403827247,25.75,-80.25719,117 Miracle Mile,Miami
+wine_bars,Wine Bars,4aKqK04ol56sq76S9pG3ZQ,Salumeria 104,Medio,4.5,296,3101.3592403827247,25.75,-80.25719,117 Miracle Mile,Miami
+bakeries,Bakeries,Wy-J_av7_SUm7AuXp_ieUw,Breadman Miami,Bajo,4.5,240,3993.7707812706894,25.7618704668318,-80.3266456998574,8100 SW 8th St,Miami
+sandwiches,Sandwiches,Wy-J_av7_SUm7AuXp_ieUw,Breadman Miami,Bajo,4.5,240,3993.7707812706894,25.7618704668318,-80.3266456998574,8100 SW 8th St,Miami
+breakfast_brunch,Breakfast & Brunch,Wy-J_av7_SUm7AuXp_ieUw,Breadman Miami,Bajo,4.5,240,3993.7707812706894,25.7618704668318,-80.3266456998574,8100 SW 8th St,Miami
+mediterranean,Mediterranean,6fv_GBeY64sepsNsNh3VGg,Fugato,Alto,4.8,118,2666.6141275094687,25.75304,-80.26141,325 Alcazar Ave,Miami
+italian,Italian,6fv_GBeY64sepsNsNh3VGg,Fugato,Alto,4.8,118,2666.6141275094687,25.75304,-80.26141,325 Alcazar Ave,Miami
+desserts,Desserts,6fv_GBeY64sepsNsNh3VGg,Fugato,Alto,4.8,118,2666.6141275094687,25.75304,-80.26141,325 Alcazar Ave,Miami
+cajun,Cajun/Creole,kG_3ZWckqbUSoCziVyUyjA,The Boiling Crab,Medio,4.0,231,5466.18283987511,25.703709,-80.287808,5829 SW 73rd St,Miami
+seafood,Seafood,kG_3ZWckqbUSoCziVyUyjA,The Boiling Crab,Medio,4.0,231,5466.18283987511,25.703709,-80.287808,5829 SW 73rd St,Miami
+dimsum,Dim Sum,79IaCcuoIGLQ-5jDMWjJLA,Dumplings Mi Amor,No especificado,4.6,94,10060.758930234833,25.773030138967897,-80.1901220238637,119 SE 2nd Ave,Miami
+panasian,Pan Asian,79IaCcuoIGLQ-5jDMWjJLA,Dumplings Mi Amor,No especificado,4.6,94,10060.758930234833,25.773030138967897,-80.1901220238637,119 SE 2nd Ave,Miami
+japanese,Japanese,Kh3YwPBPkuykk-WTl-7vlQ,107 Taste - Coral Gables,Medio,4.5,202,2613.22795666373,25.75302,-80.26201,357 Alcazar Ave,Miami
+asianfusion,Asian Fusion,Kh3YwPBPkuykk-WTl-7vlQ,107 Taste - Coral Gables,Medio,4.5,202,2613.22795666373,25.75302,-80.26201,357 Alcazar Ave,Miami
+noodles,Noodles,Kh3YwPBPkuykk-WTl-7vlQ,107 Taste - Coral Gables,Medio,4.5,202,2613.22795666373,25.75302,-80.26201,357 Alcazar Ave,Miami
+hotdogs,Fast Food,rlPuSzNrVqjxuYAVh1zDPQ,Diced,Medio,4.4,591,1645.1519515123885,25.748811,-80.30386,2342 SW 67th Ave,Miami
+salad,Salad,rlPuSzNrVqjxuYAVh1zDPQ,Diced,Medio,4.4,591,1645.1519515123885,25.748811,-80.30386,2342 SW 67th Ave,Miami
+juicebars,Juice Bars & Smoothies,rlPuSzNrVqjxuYAVh1zDPQ,Diced,Medio,4.4,591,1645.1519515123885,25.748811,-80.30386,2342 SW 67th Ave,Miami
+greek,Greek,BnjiYOPECeO0RzFs1Rx6lA,My Little Greek Deli,Medio,4.7,440,7630.730150142035,25.8213,-80.28417,195 Westward Dr,Miami
+delis,Delis,BnjiYOPECeO0RzFs1Rx6lA,My Little Greek Deli,Medio,4.7,440,7630.730150142035,25.8213,-80.28417,195 Westward Dr,Miami
+hotdog,Hot Dogs,qcJR_IqnKz3AJituEd8i1Q,Sweet Dogs,Bajo,4.7,755,2010.3496321030493,25.7644024,-80.27262868926077,4749 SW 8th St,Miami
+tradamerican,American,qcJR_IqnKz3AJituEd8i1Q,Sweet Dogs,Bajo,4.7,755,2010.3496321030493,25.7644024,-80.27262868926077,4749 SW 8th St,Miami
+popcorn,Popcorn Shops,qcJR_IqnKz3AJituEd8i1Q,Sweet Dogs,Bajo,4.7,755,2010.3496321030493,25.7644024,-80.27262868926077,4749 SW 8th St,Miami
+mexican,Mexican,9PEF_qX-3FU4iMmKgk98eA,Taqueria Viva México,Bajo,4.4,534,5266.995345313749,25.765025,-80.237216,2516 SW 8th St,Miami
+french,French,E9o0PMAyrBar8NhBYJzyXA,Bouchon Bistro,No especificado,3.9,135,3137.0904075918197,25.75298833063511,-80.2567275423279,2101 Galiano St,Miami
+wine_bars,Wine Bars,E9o0PMAyrBar8NhBYJzyXA,Bouchon Bistro,No especificado,3.9,135,3137.0904075918197,25.75298833063511,-80.2567275423279,2101 Galiano St,Miami
+cocktailbars,Cocktail Bars,E9o0PMAyrBar8NhBYJzyXA,Bouchon Bistro,No especificado,3.9,135,3137.0904075918197,25.75298833063511,-80.2567275423279,2101 Galiano St,Miami
+italian,Italian,Dzk_O70dBXoKcIQQeaOqyw,Amor di Pasta - Blue Lagoon,Medio,4.3,406,2678.158091038152,25.776908,-80.288655,536 NW 57th Ave,Miami
+asianfusion,Asian Fusion,MfkZSdJ0w4-SOLJiEyHU5A,Kyu,Alto,4.4,2057,10294.200789523684,25.80089,-80.20017,251 NW 25th St,Miami
+newamerican,New American,SyVrRDKTGgVGNSNAbngxfw,Glass & Vine,Medio,4.1,1639,5525.104885749834,25.72667400000003,-80.24114929999999,2820 McFarlane Rd,Miami
+breakfast_brunch,Breakfast & Brunch,SyVrRDKTGgVGNSNAbngxfw,Glass & Vine,Medio,4.1,1639,5525.104885749834,25.72667400000003,-80.24114929999999,2820 McFarlane Rd,Miami
+peruvian,Peruvian,xX5xXq_eEPGH_svpeUnoEg,CVI.CHE 105,No especificado,4.7,248,3192.927634740743,25.74588339168237,-80.2571171,111 Palermo Ave,Miami
+latin,Latin American,xX5xXq_eEPGH_svpeUnoEg,CVI.CHE 105,No especificado,4.7,248,3192.927634740743,25.74588339168237,-80.2571171,111 Palermo Ave,Miami
+seafood,Seafood,xX5xXq_eEPGH_svpeUnoEg,CVI.CHE 105,No especificado,4.7,248,3192.927634740743,25.74588339168237,-80.2571171,111 Palermo Ave,Miami
+cafes,Cafes,JnWk31PtaDGD3JfO9eyVkw,Impressions,No especificado,4.6,13,3555.120501416882,25.7783409549632,-80.3094483911991,711 NW 72nd Ave,Miami
+breakfast_brunch,Breakfast & Brunch,DSe5_ig3JFkmLs0Glzuisg,El Machetico,No especificado,4.3,15,6449.647942569643,25.80644726988118,-80.3126190938656,3399 NW 72nd Ave,Miami
+desserts,Desserts,DSe5_ig3JFkmLs0Glzuisg,El Machetico,No especificado,4.3,15,6449.647942569643,25.80644726988118,-80.3126190938656,3399 NW 72nd Ave,Miami
+juicebars,Juice Bars & Smoothies,DSe5_ig3JFkmLs0Glzuisg,El Machetico,No especificado,4.3,15,6449.647942569643,25.80644726988118,-80.3126190938656,3399 NW 72nd Ave,Miami
+tapasmallplates,Tapas/Small Plates,IbKtJxXvnulRG3IpaDZJPw,Cubata,No especificado,4.6,90,6835.6243727952,25.76585978075667,-80.2213447,1605 SW 8th St,Miami
+salad,Salad,IbKtJxXvnulRG3IpaDZJPw,Cubata,No especificado,4.6,90,6835.6243727952,25.76585978075667,-80.2213447,1605 SW 8th St,Miami
+sandwiches,Sandwiches,IbKtJxXvnulRG3IpaDZJPw,Cubata,No especificado,4.6,90,6835.6243727952,25.76585978075667,-80.2213447,1605 SW 8th St,Miami
+chickenshop,Chicken Shop,6WjQnu6QluI0WdHBdI_0zw,Bro’s Hot Chicken,Medio,4.1,87,2051.7130531448815,25.76238774117262,-80.30557441040257,936 SW 67th Ave,Miami
+steak,Steakhouses,bVnfhaPMT60SY1-iaNz3pw,Manny's Wood Grill Steakhouse,Alto,4.6,280,7131.4929924664975,25.798706,-80.337676,2600 NW 87th Ave,Miami
+mexican,Mexican,scZfLg-ujWMEOUmFM_Qalg,Don Maguey Mexican Restaurant,Medio,4.7,251,2616.9735888249156,25.7717682877048,-80.27253760250089,4747 W Flagler St,Miami
+italian,Italian,jOPPqsJ7TJQyix3nsDuIlw,Urbano Cucina Italiana,Medio,4.4,82,2950.093638153151,25.7781048,-80.2896454,5749 NW 7th St,Miami
+newamerican,New American,KXv8dsRBmOmGwRTqX_Rr8A,Ariete,Muy Alto,4.1,719,5268.25519279074,25.7251094,-80.2453951,3540 Main Hwy,Miami
+bars,Bars,KXv8dsRBmOmGwRTqX_Rr8A,Ariete,Muy Alto,4.1,719,5268.25519279074,25.7251094,-80.2453951,3540 Main Hwy,Miami
+bars,Bars,M8_TrApVKwxuD429kilFAw,Doc B's Restaurant + Bar,Medio,4.5,707,2740.2478542499766,25.74977,-80.26088,301 Miracle Mile,Miami
+newamerican,New American,M8_TrApVKwxuD429kilFAw,Doc B's Restaurant + Bar,Medio,4.5,707,2740.2478542499766,25.74977,-80.26088,301 Miracle Mile,Miami
+seafood,Seafood,hgxHyZfooTEdqK64QeFkmQ,La Rosa,No especificado,4.4,17,2612.824253039029,25.74906065205246,-80.2622999,382 Miracle Mile,Miami
+breakfast_brunch,Breakfast & Brunch,hgxHyZfooTEdqK64QeFkmQ,La Rosa,No especificado,4.4,17,2612.824253039029,25.74906065205246,-80.2622999,382 Miracle Mile,Miami
+gastropubs,Gastropubs,hgxHyZfooTEdqK64QeFkmQ,La Rosa,No especificado,4.4,17,2612.824253039029,25.74906065205246,-80.2622999,382 Miracle Mile,Miami
+cuban,Cuban,Zu-DqCBsPeGDKNFYEZ8NAg,La Cañita,Medio,4.1,313,10562.418061421158,25.778759958230037,-80.1865801589341,401 Biscayne Blvd,Miami
+latin,Latin American,Zu-DqCBsPeGDKNFYEZ8NAg,La Cañita,Medio,4.1,313,10562.418061421158,25.778759958230037,-80.1865801589341,401 Biscayne Blvd,Miami
+cocktailbars,Cocktail Bars,Zu-DqCBsPeGDKNFYEZ8NAg,La Cañita,Medio,4.1,313,10562.418061421158,25.778759958230037,-80.1865801589341,401 Biscayne Blvd,Miami
+french,French,rylo63njAl-oKkvZHgGJbQ,Frenchie's,Medio,4.5,262,3186.925738175723,25.7477341,-80.2567556,2618 Galiano St,Miami
+latin,Latin American,MxtjG2Oln03fQPbCkYPt5g,La Patagonia Argentina,Medio,4.2,428,3186.1430631376907,25.778542,-80.274011,4802 NW 7th St,Miami
+argentine,Argentine,MxtjG2Oln03fQPbCkYPt5g,La Patagonia Argentina,Medio,4.2,428,3186.1430631376907,25.778542,-80.274011,4802 NW 7th St,Miami
+tex-mex,Tex-Mex,6XsTdpJUrKUB1O94ydibNg,Benito Juarez,No especificado,4.1,37,10307.815374003096,25.80229,-80.20099,295 NW 27th St,Miami
+mexican,Mexican,6XsTdpJUrKUB1O94ydibNg,Benito Juarez,No especificado,4.1,37,10307.815374003096,25.80229,-80.20099,295 NW 27th St,Miami
+peruvian,Peruvian,_L55Q5DsQ21SzRJW6ZW0sQ,Francesco Restaurant,No especificado,4.8,37,2811.710465143058,25.74920313339949,-80.2602665,278 Miracle Mile,Miami
+seafood,Seafood,_L55Q5DsQ21SzRJW6ZW0sQ,Francesco Restaurant,No especificado,4.8,37,2811.710465143058,25.74920313339949,-80.2602665,278 Miracle Mile,Miami
+cocktailbars,Cocktail Bars,_L55Q5DsQ21SzRJW6ZW0sQ,Francesco Restaurant,No especificado,4.8,37,2811.710465143058,25.74920313339949,-80.2602665,278 Miracle Mile,Miami
+lebanese,Lebanese,osJg1bKN96xGg9rIUsjLGA,Amal,Alto,4.1,332,5266.507463358313,25.72668,-80.24414,3480 Main Hwy,Miami
+mediterranean,Mediterranean,osJg1bKN96xGg9rIUsjLGA,Amal,Alto,4.1,332,5266.507463358313,25.72668,-80.24414,3480 Main Hwy,Miami
+arabian,Arabic,osJg1bKN96xGg9rIUsjLGA,Amal,Alto,4.1,332,5266.507463358313,25.72668,-80.24414,3480 Main Hwy,Miami
+italian,Italian,ZYdNJXIpa4PJI4yUFFpSKQ,Giovanni's Ristorante,Medio,4.6,204,4726.508876199263,25.760843,-80.3344,8522 SW 8th St,Miami
+argentine,Argentine,ZYdNJXIpa4PJI4yUFFpSKQ,Giovanni's Ristorante,Medio,4.6,204,4726.508876199263,25.760843,-80.3344,8522 SW 8th St,Miami
+turkish,Turkish,GJO03E6tUJjLFtvx4uoZSA,Doya,Alto,4.2,532,10146.5035057431,25.8002094367749,-80.20144899999939,347 NW 24th St,Miami
+mediterranean,Mediterranean,GJO03E6tUJjLFtvx4uoZSA,Doya,Alto,4.2,532,10146.5035057431,25.8002094367749,-80.20144899999939,347 NW 24th St,Miami
+greek,Greek,GJO03E6tUJjLFtvx4uoZSA,Doya,Alto,4.2,532,10146.5035057431,25.8002094367749,-80.20144899999939,347 NW 24th St,Miami
+soulfood,Soul Food,bUAxNjDUfuXliayLcrZM2A,World Famous House of Mac,No especificado,4.2,1479,9375.791146989442,25.794833670759388,-80.20686298614746,1951 NW 7th Ave,Miami
+chicken_wings,Chicken Wings,bUAxNjDUfuXliayLcrZM2A,World Famous House of Mac,No especificado,4.2,1479,9375.791146989442,25.794833670759388,-80.20686298614746,1951 NW 7th Ave,Miami
+pizza,Pizza,bUAxNjDUfuXliayLcrZM2A,World Famous House of Mac,No especificado,4.2,1479,9375.791146989442,25.794833670759388,-80.20686298614746,1951 NW 7th Ave,Miami
+cocktailbars,Cocktail Bars,vgN1xEGT8ChtrioKKmcxcA,Sunny's Steakhouse,No especificado,4.5,228,13539.614717106642,25.84289972808821,-80.1970419314874,7357 NW Miami Ct,Miami
+popupshops,Pop-up Shops,vgN1xEGT8ChtrioKKmcxcA,Sunny's Steakhouse,No especificado,4.5,228,13539.614717106642,25.84289972808821,-80.1970419314874,7357 NW Miami Ct,Miami
+steak,Steakhouses,vgN1xEGT8ChtrioKKmcxcA,Sunny's Steakhouse,No especificado,4.5,228,13539.614717106642,25.84289972808821,-80.1970419314874,7357 NW Miami Ct,Miami
+latin,Latin American,Uu8NSOTTsI4iCyjwGX_iJg,Fritanga Cana Brava,Bajo,4.4,327,5602.412854578204,25.77976,-80.24067,2795 NW 7th St,Miami
+nicaraguan,Nicaraguan,Uu8NSOTTsI4iCyjwGX_iJg,Fritanga Cana Brava,Bajo,4.4,327,5602.412854578204,25.77976,-80.24067,2795 NW 7th St,Miami
+tapasmallplates,Tapas/Small Plates,QAPNSxiFhcNSdmjM0dD8Tw,Lung Yai Thai Tapas,Medio,4.0,1772,6643.393737663892,25.76595,-80.22329,1731 SW 8th St,Miami
+thai,Thai,QAPNSxiFhcNSdmjM0dD8Tw,Lung Yai Thai Tapas,Medio,4.0,1772,6643.393737663892,25.76595,-80.22329,1731 SW 8th St,Miami
+italian,Italian,M8dlhbSz62XnqJ4mP64L4w,Luca Osteria,Alto,4.5,430,3096.179336655455,25.751177,-80.257179,116 Giralda Ave,Miami
+chinese,Chinese,byXml8ucI-z68JnV7aFpTg,China Express,Bajo,4.1,183,1969.6559715958845,25.77057,-80.28882,5748 W Flagler St,Miami
+tacos,Tacos,OwF4aaSHwwhLRYmx270qoQ,Tacos El Carnal,Bajo,4.1,326,2731.297250589728,25.76231,-80.29583,6888 W Flagler St,Miami
+tacos,Tacos,8cFtrhGR1jfM5dbJwPm9nw,No manches que rico,Medio,4.0,190,1415.9443860479296,25.76314000250607,-80.2963473,6212 SW 8th St,Miami
+greek,Greek,RDV1XK_L4DDim9gNeg4etA,Calista Greek Seafood Taverna,Alto,4.5,214,3038.795101206676,25.75111,-80.25776,150 Giralda Ave,Miami
+seafood,Seafood,RDV1XK_L4DDim9gNeg4etA,Calista Greek Seafood Taverna,Alto,4.5,214,3038.795101206676,25.75111,-80.25776,150 Giralda Ave,Miami
+seafood,Seafood,ys97r_tdXZy1o8lwx3jl3A,Truluck's Ocean's Finest Seafood & Crab,Alto,4.4,1438,9922.492001835908,25.7666322556485,-80.1901618736801,777 Brickell Ave,Miami
+steak,Steakhouses,ys97r_tdXZy1o8lwx3jl3A,Truluck's Ocean's Finest Seafood & Crab,Alto,4.4,1438,9922.492001835908,25.7666322556485,-80.1901618736801,777 Brickell Ave,Miami
+venues,Venues & Event Spaces,ys97r_tdXZy1o8lwx3jl3A,Truluck's Ocean's Finest Seafood & Crab,Alto,4.4,1438,9922.492001835908,25.7666322556485,-80.1901618736801,777 Brickell Ave,Miami
+italian,Italian,WDdt8vSDeave2sFZ7SZUxQ,Ciao Havana,No especificado,4.0,22,6846.454229700568,25.765517,-80.221157,1620 SW 8th St,Miami
+cuban,Cuban,-fCMdb5Rfc0oTOWBnW9RSA,La Rosa Fine Cuban Cuisine,Medio,4.1,523,3867.360398847775,25.779044,-80.262671,4041 NW 7th St,Miami
+seafood,Seafood,-fCMdb5Rfc0oTOWBnW9RSA,La Rosa Fine Cuban Cuisine,Medio,4.1,523,3867.360398847775,25.779044,-80.262671,4041 NW 7th St,Miami
+bars,Bars,-fCMdb5Rfc0oTOWBnW9RSA,La Rosa Fine Cuban Cuisine,Medio,4.1,523,3867.360398847775,25.779044,-80.262671,4041 NW 7th St,Miami
+grocery,Grocery,a8ilqHTLFJmFvFMzn_AbRA,La Bodeguita Espanola,Bajo,4.0,11,132.20277030219702,25.75400676056545,-80.28787136685327,1892 S Red Rd,Miami
+tapasmallplates,Tapas/Small Plates,a8ilqHTLFJmFvFMzn_AbRA,La Bodeguita Espanola,Bajo,4.0,11,132.20277030219702,25.75400676056545,-80.28787136685327,1892 S Red Rd,Miami
+beer_and_wine,"Beer, Wine & Spirits",a8ilqHTLFJmFvFMzn_AbRA,La Bodeguita Espanola,Bajo,4.0,11,132.20277030219702,25.75400676056545,-80.28787136685327,1892 S Red Rd,Miami
+gastropubs,Gastropubs,kvrpbq-j_Ulq6c_dmWv8oA,Bulla Gastrobar,Medio,4.3,1640,2957.4684302850164,25.748518,-80.258901,2500 Ponce De Leon Blvd,Miami
+spanish,Spanish,kvrpbq-j_Ulq6c_dmWv8oA,Bulla Gastrobar,Medio,4.3,1640,2957.4684302850164,25.748518,-80.258901,2500 Ponce De Leon Blvd,Miami
+tapas,Tapas Bars,kvrpbq-j_Ulq6c_dmWv8oA,Bulla Gastrobar,Medio,4.3,1640,2957.4684302850164,25.748518,-80.258901,2500 Ponce De Leon Blvd,Miami
+peruvian,Peruvian,2eIez2Q7S8-btrCf5hXXaQ,La Granja,Medio,3.9,101,4156.836739454165,25.78309715626249,-80.26368865119036,1199 NW 42nd Ave,Miami
+desserts,Desserts,2eIez2Q7S8-btrCf5hXXaQ,La Granja,Medio,3.9,101,4156.836739454165,25.78309715626249,-80.26368865119036,1199 NW 42nd Ave,Miami
+seafood,Seafood,2eIez2Q7S8-btrCf5hXXaQ,La Granja,Medio,3.9,101,4156.836739454165,25.78309715626249,-80.26368865119036,1199 NW 42nd Ave,Miami
+spanish,Spanish,XmZO_0VytcQbXiuVLA9lmg,CalaMillor,No especificado,4.0,191,2115.1014745862904,25.733847292941373,-80.2866818010807,4000 SW 57th Ave,Miami
+desserts,Desserts,XmZO_0VytcQbXiuVLA9lmg,CalaMillor,No especificado,4.0,191,2115.1014745862904,25.733847292941373,-80.2866818010807,4000 SW 57th Ave,Miami
+burgers,Burgers,w-6hykGDaaPjH4QSLsE6oA,Skinny Louie,No especificado,3.8,19,3015.638397932532,25.751504,-80.257929,153 Giralda Ave,Miami
+hotdogs,Fast Food,w-6hykGDaaPjH4QSLsE6oA,Skinny Louie,No especificado,3.8,19,3015.638397932532,25.751504,-80.257929,153 Giralda Ave,Miami
+italian,Italian,u5-HCARN29cYKm-h7Kdurw,Carbone Vino,No especificado,4.4,68,5477.033364785988,25.728357593031618,-80.24059439999999,2911 Grand Ave,Miami
+desserts,Desserts,u5-HCARN29cYKm-h7Kdurw,Carbone Vino,No especificado,4.4,68,5477.033364785988,25.728357593031618,-80.24059439999999,2911 Grand Ave,Miami
+cocktailbars,Cocktail Bars,u5-HCARN29cYKm-h7Kdurw,Carbone Vino,No especificado,4.4,68,5477.033364785988,25.728357593031618,-80.24059439999999,2911 Grand Ave,Miami
+cuban,Cuban,SsIMtruy7PQXZZQx3Fs0vA,Cafe Versailles,Bajo,3.9,409,3781.3939668241524,25.76507444085303,-80.25282474353001,3555 SW 8th St,Miami
+cafes,Cafes,SsIMtruy7PQXZZQx3Fs0vA,Cafe Versailles,Bajo,3.9,409,3781.3939668241524,25.76507444085303,-80.25282474353001,3555 SW 8th St,Miami
+italian,Italian,p4MCaUs9QOdz2LNRG1hymA,Mother Wolf,No especificado,4.3,69,11769.806089365195,25.81265976118508,-80.1910809,3841 NE 2nd Ave,Miami
+desserts,Desserts,p4MCaUs9QOdz2LNRG1hymA,Mother Wolf,No especificado,4.3,69,11769.806089365195,25.81265976118508,-80.1910809,3841 NE 2nd Ave,Miami
+cocktailbars,Cocktail Bars,p4MCaUs9QOdz2LNRG1hymA,Mother Wolf,No especificado,4.3,69,11769.806089365195,25.81265976118508,-80.1910809,3841 NE 2nd Ave,Miami
+sushi,Sushi Bars,4mmMeIIVKFwH6Zdm9Awbpw,Belly Fish,Medio,4.4,71,3871.682070456338,25.73394497090103,-80.25557414688785,3060 SW 37th Ave,Miami
+japanese,Japanese,4mmMeIIVKFwH6Zdm9Awbpw,Belly Fish,Medio,4.4,71,3871.682070456338,25.73394497090103,-80.25557414688785,3060 SW 37th Ave,Miami
+seafood,Seafood,4mmMeIIVKFwH6Zdm9Awbpw,Belly Fish,Medio,4.4,71,3871.682070456338,25.73394497090103,-80.25557414688785,3060 SW 37th Ave,Miami
+spanish,Spanish,ZPrrMX0n6INLmlnJ9Nu_oQ,Madrid Tapas Y Vinos,Medio,4.0,337,3670.555793487845,25.7775426223252,-80.2637512404755,525 NW 42nd Ave,Miami
+seafood,Seafood,ZPrrMX0n6INLmlnJ9Nu_oQ,Madrid Tapas Y Vinos,Medio,4.0,337,3670.555793487845,25.7775426223252,-80.2637512404755,525 NW 42nd Ave,Miami
+tapas,Tapas Bars,ZPrrMX0n6INLmlnJ9Nu_oQ,Madrid Tapas Y Vinos,Medio,4.0,337,3670.555793487845,25.7775426223252,-80.2637512404755,525 NW 42nd Ave,Miami
+vegetarian,Vegetarian,wbxKj8E3ucAvky6DuoQZ8g,Chef Allen's Farm to Table,Alto,4.7,15,10606.989207602253,25.7869967159839,-80.1891533285379,263 NE 13th St,Miami
+foodstands,Food Stands,wbxKj8E3ucAvky6DuoQZ8g,Chef Allen's Farm to Table,Alto,4.7,15,10606.989207602253,25.7869967159839,-80.1891533285379,263 NE 13th St,Miami
+argentine,Argentine,KBqhiiRpCOt6WJyG1SdEJg,Los Gauchitos,Medio,3.7,107,3335.1609924704644,25.77358,-80.26401,200 NW 42nd Ave,Miami
+steak,Steakhouses,KBqhiiRpCOt6WJyG1SdEJg,Los Gauchitos,Medio,3.7,107,3335.1609924704644,25.77358,-80.26401,200 NW 42nd Ave,Miami
+cakeshop,Patisserie/Cake Shop,KBqhiiRpCOt6WJyG1SdEJg,Los Gauchitos,Medio,3.7,107,3335.1609924704644,25.77358,-80.26401,200 NW 42nd Ave,Miami
+steak,Steakhouses,7sxfMjjzpaldOTgQt8Dw4Q,Maple & Ash,Muy Alto,4.3,68,10144.37425277412,25.780930761113595,-80.19167333339676,699 NE 1st St,Miami
+tacos,Tacos,glR7sMvBkT8_Hcq5Mrl0KA,Mi Rinconcito Mexicano,Medio,4.2,1023,6190.533971236162,25.76579,-80.22789,1961 SW 8th St,Miami
+cuban,Cuban,0PGw288lzIaXPDCTNroP2w,Kuba Kitchen,Medio,4.6,73,4420.580296955784,25.77876,-80.25461,3640 NW 7th St,Miami
+newamerican,New American,zGf5kkYEU01NQ04DRYVPNQ,Doce Provisions,Medio,4.5,1023,7583.169084399771,25.767862,-80.214191,541 SW 12th Ave,Miami
+cuban,Cuban,zGf5kkYEU01NQ04DRYVPNQ,Doce Provisions,Medio,4.5,1023,7583.169084399771,25.767862,-80.214191,541 SW 12th Ave,Miami
+latin,Latin American,zGf5kkYEU01NQ04DRYVPNQ,Doce Provisions,Medio,4.5,1023,7583.169084399771,25.767862,-80.214191,541 SW 12th Ave,Miami
+latin,Latin American,d881dT_RC64MOjXgH3fVuA,Latin Cafe 2000,Medio,3.6,634,3897.744443998662,25.78029,-80.26372,875 NW 42nd Ave,Miami
+cuban,Cuban,d881dT_RC64MOjXgH3fVuA,Latin Cafe 2000,Medio,3.6,634,3897.744443998662,25.78029,-80.26372,875 NW 42nd Ave,Miami
+asianfusion,Asian Fusion,ViI0QS9XsfpAXkeqbUoNmg,Zitz Sum,No especificado,4.2,258,2581.95101109032,25.7514463,-80.262316,396 Alhambra Cir,Miami
+wine_bars,Wine Bars,ViI0QS9XsfpAXkeqbUoNmg,Zitz Sum,No especificado,4.2,258,2581.95101109032,25.7514463,-80.262316,396 Alhambra Cir,Miami
+newamerican,New American,ViI0QS9XsfpAXkeqbUoNmg,Zitz Sum,No especificado,4.2,258,2581.95101109032,25.7514463,-80.262316,396 Alhambra Cir,Miami
+tacos,Tacos,2Fr7io7h27gdZ5PAnLg1qQ,Bandidos Taqueria,No especificado,4.5,71,6010.943111255792,25.79620315565634,-80.3238784,7800 NW 25th St,Miami
+cocktailbars,Cocktail Bars,2Fr7io7h27gdZ5PAnLg1qQ,Bandidos Taqueria,No especificado,4.5,71,6010.943111255792,25.79620315565634,-80.3238784,7800 NW 25th St,Miami
+seafood,Seafood,RLgGaBUR8eT07lmrASxq-w,Recoveco,No especificado,4.5,22,5635.2250606844655,25.702233213035516,-80.29127297508214,6000 SW 74th St,Miami
+tradamerican,American,RLgGaBUR8eT07lmrASxq-w,Recoveco,No especificado,4.5,22,5635.2250606844655,25.702233213035516,-80.29127297508214,6000 SW 74th St,Miami
+cuban,Cuban,07EtzVkziCory7__msq7oQ,Chug's Diner,Medio,3.9,555,5307.4284913429465,25.727446967129996,-80.24317518063626,3444 Main Hwy,Miami
+diners,Diners,07EtzVkziCory7__msq7oQ,Chug's Diner,Medio,3.9,555,5307.4284913429465,25.727446967129996,-80.24317518063626,3444 Main Hwy,Miami
+caribbean,Caribbean,07EtzVkziCory7__msq7oQ,Chug's Diner,Medio,3.9,555,5307.4284913429465,25.727446967129996,-80.24317518063626,3444 Main Hwy,Miami
+irish,Irish,wWC-EP1A2rPmDOKJaU5v4w,John Martin's,Medio,3.9,156,2850.1177918051494,25.74983,-80.25978,253 Miracle Mile,Miami
+irish_pubs,Irish Pub,wWC-EP1A2rPmDOKJaU5v4w,John Martin's,Medio,3.9,156,2850.1177918051494,25.74983,-80.25978,253 Miracle Mile,Miami
+chickenshop,Chicken Shop,O3lB3-6MTlQ2sWJsseMjxQ,House of Birds & Biscuits,No especificado,5.0,4,6108.455893761138,25.72778056,-80.23426395,3415 Pan American Dr,Miami
+salad,Salad,O3lB3-6MTlQ2sWJsseMjxQ,House of Birds & Biscuits,No especificado,5.0,4,6108.455893761138,25.72778056,-80.23426395,3415 Pan American Dr,Miami
+sandwiches,Sandwiches,O3lB3-6MTlQ2sWJsseMjxQ,House of Birds & Biscuits,No especificado,5.0,4,6108.455893761138,25.72778056,-80.23426395,3415 Pan American Dr,Miami
+tradamerican,American,EYNrfEB99WUK6jZuM9XK9g,Grill 305,Medio,2.7,47,6549.650115413344,25.8066981012141,-80.261592989341,3974 NW South River Dr,Miami
+bars,Bars,EYNrfEB99WUK6jZuM9XK9g,Grill 305,Medio,2.7,47,6549.650115413344,25.8066981012141,-80.261592989341,3974 NW South River Dr,Miami
+japanese,Japanese,iipIhhoYyDsXBB8zZFrKgw,Sushi Cafe & Shilla Korean BBQ,Medio,3.9,646,4318.996472481292,25.7728010678068,-80.3250411048311,7917 NW 2nd St,Miami
+sushi,Sushi Bars,iipIhhoYyDsXBB8zZFrKgw,Sushi Cafe & Shilla Korean BBQ,Medio,3.9,646,4318.996472481292,25.7728010678068,-80.3250411048311,7917 NW 2nd St,Miami
+korean,Korean,iipIhhoYyDsXBB8zZFrKgw,Sushi Cafe & Shilla Korean BBQ,Medio,3.9,646,4318.996472481292,25.7728010678068,-80.3250411048311,7917 NW 2nd St,Miami
+peruvian,Peruvian,Tivvg8OnC753YS6n9sM2tQ,Taipa Peruvian Restaurant- Coral Gables,No especificado,4.8,43,1996.3630009852097,25.73487689661892,-80.2877706,5751 Bird Rd,Miami
+french,French,G7sq7f6Zqn5QsB7ShV29AA,Brasserie Laurel,No especificado,4.5,87,10075.942488272314,25.780823616241143,-80.1923532,698 NE 1st Ave,Miami
+cocktailbars,Cocktail Bars,G7sq7f6Zqn5QsB7ShV29AA,Brasserie Laurel,No especificado,4.5,87,10075.942488272314,25.780823616241143,-80.1923532,698 NE 1st Ave,Miami
+portuguese,Portuguese,R-nTkmkIK6Vzx-bBYzwlTQ,Sereia,No especificado,4.3,25,5286.674520051826,25.725247402276544,-80.245059,3540 Main Hwy,Miami
+bars,Bars,R-nTkmkIK6Vzx-bBYzwlTQ,Sereia,No especificado,4.3,25,5286.674520051826,25.725247402276544,-80.245059,3540 Main Hwy,Miami
+seafood,Seafood,R-nTkmkIK6Vzx-bBYzwlTQ,Sereia,No especificado,4.3,25,5286.674520051826,25.725247402276544,-80.245059,3540 Main Hwy,Miami
+delis,Delis,eltLrQWKhUZOl9P_hZv9Vg,Jholano's Deli,Medio,4.1,248,4693.611273032263,25.71193,-80.27973,1390 S Dixie Hwy,Miami
+mexican,Mexican,n43tjBsIHnCwwEddhLT2lA,Tacos & Tattoos,No especificado,4.1,55,3500.878333778284,25.732093,-80.31436,7360 SW 41st St,Miami
+fooddeliveryservices,Food Delivery Services,fEWNFu1iehstzjmYC_EHCA,Doobi Doobap,No especificado,4.5,11,9950.282376090821,25.782964953294005,-80.1944893,31 NW 9th St,Miami
+korean,Korean,fEWNFu1iehstzjmYC_EHCA,Doobi Doobap,No especificado,4.5,11,9950.282376090821,25.782964953294005,-80.1944893,31 NW 9th St,Miami
+desserts,Desserts,fEWNFu1iehstzjmYC_EHCA,Doobi Doobap,No especificado,4.5,11,9950.282376090821,25.782964953294005,-80.1944893,31 NW 9th St,Miami
+cocktailbars,Cocktail Bars,DBkvlsnaPeXvynQBS1TejA,Kitchen 57,No especificado,4.5,42,5494.736764610511,25.703441746848256,-80.28619494611632,7301 SW 57th Ct,Miami
+sandwiches,Sandwiches,DBkvlsnaPeXvynQBS1TejA,Kitchen 57,No especificado,4.5,42,5494.736764610511,25.703441746848256,-80.28619494611632,7301 SW 57th Ct,Miami
+pizza,Pizza,DBkvlsnaPeXvynQBS1TejA,Kitchen 57,No especificado,4.5,42,5494.736764610511,25.703441746848256,-80.28619494611632,7301 SW 57th Ct,Miami
+steak,Steakhouses,8_cuODO8G0yuzQO_fRW5kA,Toro Toro,Alto,4.2,1402,10517.754629238952,25.772572,-80.185336,100 Chopin Plz,Miami
+tapas,Tapas Bars,8_cuODO8G0yuzQO_fRW5kA,Toro Toro,Alto,4.2,1402,10517.754629238952,25.772572,-80.185336,100 Chopin Plz,Miami
+cocktailbars,Cocktail Bars,8_cuODO8G0yuzQO_fRW5kA,Toro Toro,Alto,4.2,1402,10517.754629238952,25.772572,-80.185336,100 Chopin Plz,Miami
+latin,Latin American,gosIrtHXK9sgKEyhu6j_zQ,CHIMBA,No especificado,4.4,94,11218.426563314006,25.8038,-80.19136,2830 NE 2nd Ave,Miami
+cocktailbars,Cocktail Bars,gosIrtHXK9sgKEyhu6j_zQ,CHIMBA,No especificado,4.4,94,11218.426563314006,25.8038,-80.19136,2830 NE 2nd Ave,Miami
+argentine,Argentine,gosIrtHXK9sgKEyhu6j_zQ,CHIMBA,No especificado,4.4,94,11218.426563314006,25.8038,-80.19136,2830 NE 2nd Ave,Miami
+peruvian,Peruvian,K6zJCTpwqQ4jL5IwqJPHaw,Aromas Del Peru,Medio,3.9,385,1246.0538306922235,25.7639979,-80.2890612,5757 SW 8th St,Miami
+seafood,Seafood,K6zJCTpwqQ4jL5IwqJPHaw,Aromas Del Peru,Medio,3.9,385,1246.0538306922235,25.7639979,-80.2890612,5757 SW 8th St,Miami
+steak,Steakhouses,r2R4frW2jZhEAMmlp39ZNQ,The Wagyu Bar,No especificado,4.1,208,5679.914207949452,25.750809,-80.231386,2257 Coral Way,Miami
+italian,Italian,kfg_vVyvDDm_f8mMKqhbfQ,ERBA,No especificado,3.9,88,3960.0616334085908,25.729270079137052,-80.2584004,227 S Dixie Hwy,Miami
+wine_bars,Wine Bars,kfg_vVyvDDm_f8mMKqhbfQ,ERBA,No especificado,3.9,88,3960.0616334085908,25.729270079137052,-80.2584004,227 S Dixie Hwy,Miami
+pastashops,Pasta Shops,kfg_vVyvDDm_f8mMKqhbfQ,ERBA,No especificado,3.9,88,3960.0616334085908,25.729270079137052,-80.2584004,227 S Dixie Hwy,Miami
+steak,Steakhouses,7zi35PQGV0jnoM7NwHWd-w,Klaw Miami,Muy Alto,4.4,374,11124.27108974565,25.792141525748026,-80.1858937,1737 N Bayshore Dr,Miami
+seafood,Seafood,7zi35PQGV0jnoM7NwHWd-w,Klaw Miami,Muy Alto,4.4,374,11124.27108974565,25.792141525748026,-80.1858937,1737 N Bayshore Dr,Miami
+newamerican,New American,opz-z4k-WK0KsyyR1Vwg5A,WHISK Gourmet Food & Catering,Medio,4.3,1477,5563.910349997615,25.702922,-80.284768,7382 SW 56th Ave,Miami
+bakeries,Bakeries,FC1HGH4fr6UbK4s0K54Asg,B Bistro + Bakery,Medio,4.4,1184,9851.903365385766,25.767529000000025,-80.19103729999999,600 Brickell Ave,Miami
+breakfast_brunch,Breakfast & Brunch,FC1HGH4fr6UbK4s0K54Asg,B Bistro + Bakery,Medio,4.4,1184,9851.903365385766,25.767529000000025,-80.19103729999999,600 Brickell Ave,Miami
+newamerican,New American,FC1HGH4fr6UbK4s0K54Asg,B Bistro + Bakery,Medio,4.4,1184,9851.903365385766,25.767529000000025,-80.19103729999999,600 Brickell Ave,Miami
+halal,Halal,3kr1xjI-HzcIAgJVop545A,Shahs of Kabob,No especificado,4.5,105,2987.251714766774,25.74737,-80.25884,2624 Ponce De Leon,Miami
+mediterranean,Mediterranean,3kr1xjI-HzcIAgJVop545A,Shahs of Kabob,No especificado,4.5,105,2987.251714766774,25.74737,-80.25884,2624 Ponce De Leon,Miami
+persian,Persian/Iranian,3kr1xjI-HzcIAgJVop545A,Shahs of Kabob,No especificado,4.5,105,2987.251714766774,25.74737,-80.25884,2624 Ponce De Leon,Miami
+french,French,Z4_MkMLc_CA4kkAYOj5EzA,Pastis Miami,No especificado,4.4,322,10156.522443552038,25.8011472,-80.2019445,380 NW 26th St,Miami
+desserts,Desserts,kgqUG84wRDUvMxlEwBhaMA,The Collab,No especificado,4.4,14,4545.097319584227,25.712861631435565,-80.2785407,1350 South Dixie Hwy,Miami
+newamerican,New American,kgqUG84wRDUvMxlEwBhaMA,The Collab,No especificado,4.4,14,4545.097319584227,25.712861631435565,-80.2785407,1350 South Dixie Hwy,Miami
+cocktailbars,Cocktail Bars,kgqUG84wRDUvMxlEwBhaMA,The Collab,No especificado,4.4,14,4545.097319584227,25.712861631435565,-80.2785407,1350 South Dixie Hwy,Miami
+bbq,Barbeque,7nCH2ojnZh7qAfB0QPb2-w,Slab Daddy Barbecue,No especificado,4.4,30,9241.883552839137,25.795484204546028,-80.2088363,795 NW 20th St,Miami
+steak,Steakhouses,MxW98kWX6_gBEsB9u8AR9A,Texas Roadhouse,Medio,4.0,720,5731.621981138362,25.7696468686623,-80.3421527917608,9161 W Flagler St,Miami
+bbq,Barbeque,MxW98kWX6_gBEsB9u8AR9A,Texas Roadhouse,Medio,4.0,720,5731.621981138362,25.7696468686623,-80.3421527917608,9161 W Flagler St,Miami
+tradamerican,American,MxW98kWX6_gBEsB9u8AR9A,Texas Roadhouse,Medio,4.0,720,5731.621981138362,25.7696468686623,-80.3421527917608,9161 W Flagler St,Miami
+tradamerican,American,g3U7lz6gUvmQ1nE4yQnvDA,The Thousand Sunny,Medio,4.4,81,8279.717199165318,25.6822568,-80.3140447,9545 S Dixie Hwy,Miami
+mediterranean,Mediterranean,2SJpb38UqPLwfMukVG8NKg,The Mediterranean Kitchen,No especificado,4.3,8,5036.210125431076,25.796845,-80.276198,2100 NW 42nd Ave,Miami
+portuguese,Portuguese,-vIOvnJhvEfWfUZeobqGqQ,Majestic Portuguese Bakehouse,Medio,4.3,177,3963.8169545857595,25.749701,-80.2486254,3340 Coral Way,Miami
+bakeries,Bakeries,-vIOvnJhvEfWfUZeobqGqQ,Majestic Portuguese Bakehouse,Medio,4.3,177,3963.8169545857595,25.749701,-80.2486254,3340 Coral Way,Miami
+desserts,Desserts,-vIOvnJhvEfWfUZeobqGqQ,Majestic Portuguese Bakehouse,Medio,4.3,177,3963.8169545857595,25.749701,-80.2486254,3340 Coral Way,Miami
+mediterranean,Mediterranean,AP7QE5AA7yrqRrrekcI6ug,LIRA Beirut eatery,No especificado,4.7,146,10103.167265788574,25.795729,-80.199072,2000 NW 2nd Ave,Miami
+lebanese,Lebanese,AP7QE5AA7yrqRrrekcI6ug,LIRA Beirut eatery,No especificado,4.7,146,10103.167265788574,25.795729,-80.199072,2000 NW 2nd Ave,Miami
+mediterranean,Mediterranean,nvwXcXSSNoV7FDWvYi_OKA,Mandolin Aegean Bistro,Medio,4.3,2504,11935.065944247419,25.815960646211337,-80.19164751387174,4312 NE 2nd Ave,Miami
+greek,Greek,nvwXcXSSNoV7FDWvYi_OKA,Mandolin Aegean Bistro,Medio,4.3,2504,11935.065944247419,25.815960646211337,-80.19164751387174,4312 NE 2nd Ave,Miami
+turkish,Turkish,nvwXcXSSNoV7FDWvYi_OKA,Mandolin Aegean Bistro,Medio,4.3,2504,11935.065944247419,25.815960646211337,-80.19164751387174,4312 NE 2nd Ave,Miami
+sushi,Sushi Bars,srvNzBtnyKd4pSENmGGR7Q,SHINGO,No especificado,4.8,35,3147.3568008802363,25.75304316263367,-80.25662542575145,112 Alhambra Cir,Miami
+japanese,Japanese,srvNzBtnyKd4pSENmGGR7Q,SHINGO,No especificado,4.8,35,3147.3568008802363,25.75304316263367,-80.25662542575145,112 Alhambra Cir,Miami
+seafood,Seafood,3vR7NTYEGtKYqtwGOsuJpg,Hemingways on the Beach Turks and Caicos,Alto,3.3,50,9369.195412273604,25.7748107910156,-80.1977310180664,Grace Bay Turks And Caicos,Miami
+ramen,Ramen,Yzz_gAcCupmgSIn6KStovw,Ohho Noodles Market,Medio,3.7,456,4261.558788309082,25.71672337,-80.27378209,1100 S Dixie Hwy,Miami
+chinese,Chinese,Yzz_gAcCupmgSIn6KStovw,Ohho Noodles Market,Medio,3.7,456,4261.558788309082,25.71672337,-80.27378209,1100 S Dixie Hwy,Miami
+noodles,Noodles,Yzz_gAcCupmgSIn6KStovw,Ohho Noodles Market,Medio,3.7,456,4261.558788309082,25.71672337,-80.27378209,1100 S Dixie Hwy,Miami
+chinese,Chinese,vsyuWsegeskGw8IFLrxzWg,King Duck BBQ,Medio,4.4,139,7843.60102157702,25.76788,-80.36445,10340 West Flagler St,Miami
+bbq,Barbeque,vsyuWsegeskGw8IFLrxzWg,King Duck BBQ,Medio,4.4,139,7843.60102157702,25.76788,-80.36445,10340 West Flagler St,Miami
+seafood,Seafood,d4pfwfJktfuTAQM51oj_ZQ,Monty's Raw Bar,Medio,3.3,1307,6016.363069036825,25.73227,-80.232488,2550 S Bayshore Dr,Miami
+tikibars,Tiki Bars,d4pfwfJktfuTAQM51oj_ZQ,Monty's Raw Bar,Medio,3.3,1307,6016.363069036825,25.73227,-80.232488,2550 S Bayshore Dr,Miami
+venues,Venues & Event Spaces,d4pfwfJktfuTAQM51oj_ZQ,Monty's Raw Bar,Medio,3.3,1307,6016.363069036825,25.73227,-80.232488,2550 S Bayshore Dr,Miami
+falafel,Falafel,BMxexobPyjZcWHcHbTP5zA,Amsterdam Falafelshop,Bajo,4.5,386,5375.831553271986,25.7044638,-80.2880526,5835 Sunset Dr,Miami
+vegan,Vegan,BMxexobPyjZcWHcHbTP5zA,Amsterdam Falafelshop,Bajo,4.5,386,5375.831553271986,25.7044638,-80.2880526,5835 Sunset Dr,Miami
+vegetarian,Vegetarian,BMxexobPyjZcWHcHbTP5zA,Amsterdam Falafelshop,Bajo,4.5,386,5375.831553271986,25.7044638,-80.2880526,5835 Sunset Dr,Miami
+newamerican,New American,LD8i6FUVc97e43GWDyVa3A,Blue Matisse,Medio,4.4,228,6926.376487455864,25.7978477478027,-80.3358383178711,2505 NW 87th Ave,Miami
+buffets,Buffets,LD8i6FUVc97e43GWDyVa3A,Blue Matisse,Medio,4.4,228,6926.376487455864,25.7978477478027,-80.3358383178711,2505 NW 87th Ave,Miami
+lounges,Lounges,LD8i6FUVc97e43GWDyVa3A,Blue Matisse,Medio,4.4,228,6926.376487455864,25.7978477478027,-80.3358383178711,2505 NW 87th Ave,Miami
+sandwiches,Sandwiches,PYMJZAHf_FfC-Id4z05KqQ,Sanguich De Miami,No especificado,4.5,30,10617.614006539021,25.77736866152403,-80.18558457479473,401 Biscayne Blvd S116,Miami
+cuban,Cuban,PYMJZAHf_FfC-Id4z05KqQ,Sanguich De Miami,No especificado,4.5,30,10617.614006539021,25.77736866152403,-80.18558457479473,401 Biscayne Blvd S116,Miami
+coffee,Coffee & Tea,PYMJZAHf_FfC-Id4z05KqQ,Sanguich De Miami,No especificado,4.5,30,10617.614006539021,25.77736866152403,-80.18558457479473,401 Biscayne Blvd S116,Miami
+latin,Latin American,kG8t6gBsarlvsxIocFUkAQ,Miranda Cuisine & Bar,Medio,4.3,100,6597.949376211834,25.80882,-80.2661,4299 NW 36th St,Miami
+bars,Bars,kG8t6gBsarlvsxIocFUkAQ,Miranda Cuisine & Bar,Medio,4.3,100,6597.949376211834,25.80882,-80.2661,4299 NW 36th St,Miami
+newamerican,New American,kG8t6gBsarlvsxIocFUkAQ,Miranda Cuisine & Bar,Medio,4.3,100,6597.949376211834,25.80882,-80.2661,4299 NW 36th St,Miami
+salad,Salad,2mnanBIvWkI4nxnF1XYwqw,La Cañita,No especificado,4.6,46,12083.769879408877,25.689339402552033,-80.38594767054707,8405 Mills Dr,Miami
+latin,Latin American,2mnanBIvWkI4nxnF1XYwqw,La Cañita,No especificado,4.6,46,12083.769879408877,25.689339402552033,-80.38594767054707,8405 Mills Dr,Miami
+cuban,Cuban,2mnanBIvWkI4nxnF1XYwqw,La Cañita,No especificado,4.6,46,12083.769879408877,25.689339402552033,-80.38594767054707,8405 Mills Dr,Miami
+mediterranean,Mediterranean,rbPpKsUOLyZjcYhhxrae3w,Lili’s Mediterranean Food,No especificado,4.6,15,2962.003982470374,25.75486889851338,-80.25856189999999,1915 Ponce De Leon,Miami
+breakfast_brunch,Breakfast & Brunch,LnyDHTiXoPRSxk7e5qPl4w,CRAFT Coral Gables,Medio,4.4,285,3071.141244090424,25.751518923728018,-80.2574202411596,127 Giralda Ave,Miami
+pizza,Pizza,LnyDHTiXoPRSxk7e5qPl4w,CRAFT Coral Gables,Medio,4.4,285,3071.141244090424,25.751518923728018,-80.2574202411596,127 Giralda Ave,Miami
+newamerican,New American,LnyDHTiXoPRSxk7e5qPl4w,CRAFT Coral Gables,Medio,4.4,285,3071.141244090424,25.751518923728018,-80.2574202411596,127 Giralda Ave,Miami
+sushi,Sushi Bars,UKuU-892MTbWwJtpy9cKMg,Mai Sushi Tapas Bar,No especificado,4.8,66,3175.275974824157,25.74949337339188,-80.25656325019195,98 Miracle Mile,Miami
+japanese,Japanese,UKuU-892MTbWwJtpy9cKMg,Mai Sushi Tapas Bar,No especificado,4.8,66,3175.275974824157,25.74949337339188,-80.25656325019195,98 Miracle Mile,Miami
+tapas,Tapas Bars,UKuU-892MTbWwJtpy9cKMg,Mai Sushi Tapas Bar,No especificado,4.8,66,3175.275974824157,25.74949337339188,-80.25656325019195,98 Miracle Mile,Miami
+indpak,Indian,NtBdy9oTCc_wqGXionh2IA,Namaste Miami,Medio,4.5,211,2897.159805344041,25.754562,-80.259166,221 Navarre Ave Coral Gables,Miami
+cuban,Cuban,tW1oJJPv3kdHlw5B57Q-ZA,El Mago De Las Fritas,Bajo,4.7,449,1198.8548498392413,25.763315,-80.290834,5828 SW 8th St,Miami
+sandwiches,Sandwiches,tW1oJJPv3kdHlw5B57Q-ZA,El Mago De Las Fritas,Bajo,4.7,449,1198.8548498392413,25.763315,-80.290834,5828 SW 8th St,Miami
+newamerican,New American,aIQK1sw9Prr-KdUu717vRw,Dolores But You Can Call Me Lolita,Medio,4.0,1934,9554.65241309611,25.76427,-80.19354,1000 S Miami Ave,Miami
+cocktailbars,Cocktail Bars,aIQK1sw9Prr-KdUu717vRw,Dolores But You Can Call Me Lolita,Medio,4.0,1934,9554.65241309611,25.76427,-80.19354,1000 S Miami Ave,Miami
+tapas,Tapas Bars,aIQK1sw9Prr-KdUu717vRw,Dolores But You Can Call Me Lolita,Medio,4.0,1934,9554.65241309611,25.76427,-80.19354,1000 S Miami Ave,Miami
+peruvian,Peruvian,02vQKp7S8ouqn8nHZ_ZKmg,Ceviches by Divino ® Miami Springs - Peruvian Tapas & Gastrobar,Medio,4.8,550,7714.211699017447,25.821931857583262,-80.2812265,46 Curtiss Pkwy,Miami
+gastropubs,Gastropubs,02vQKp7S8ouqn8nHZ_ZKmg,Ceviches by Divino ® Miami Springs - Peruvian Tapas & Gastrobar,Medio,4.8,550,7714.211699017447,25.821931857583262,-80.2812265,46 Curtiss Pkwy,Miami
+tapas,Tapas Bars,02vQKp7S8ouqn8nHZ_ZKmg,Ceviches by Divino ® Miami Springs - Peruvian Tapas & Gastrobar,Medio,4.8,550,7714.211699017447,25.821931857583262,-80.2812265,46 Curtiss Pkwy,Miami
+french,French,Gqm1X7wfFhTlKUzvh9JtFg,Cafe Panisse,No especificado,5.0,1,5518.960654400239,25.703241006628552,-80.2856948,7310 SW 57th Ave,Miami
+salad,Salad,Gqm1X7wfFhTlKUzvh9JtFg,Cafe Panisse,No especificado,5.0,1,5518.960654400239,25.703241006628552,-80.2856948,7310 SW 57th Ave,Miami
+sandwiches,Sandwiches,Gqm1X7wfFhTlKUzvh9JtFg,Cafe Panisse,No especificado,5.0,1,5518.960654400239,25.703241006628552,-80.2856948,7310 SW 57th Ave,Miami
+desserts,Desserts,LyjRX3imu7S4WsmZiKlLTw,Habana Con B,Medio,4.9,100,7803.694698416748,25.7661634,-80.211436,1005 SW 8th St,Miami
+cuban,Cuban,LyjRX3imu7S4WsmZiKlLTw,Habana Con B,Medio,4.9,100,7803.694698416748,25.7661634,-80.211436,1005 SW 8th St,Miami
+sandwiches,Sandwiches,LyjRX3imu7S4WsmZiKlLTw,Habana Con B,Medio,4.9,100,7803.694698416748,25.7661634,-80.211436,1005 SW 8th St,Miami
+bars,Bars,kSBE7iHfiYKdyNBIoB3Bvw,The Doral Yard,Medio,4.5,414,8858.226296993038,25.81999998,-80.33561727,8455 NW 53rd St,Miami
+musicvenues,Music Venues,kSBE7iHfiYKdyNBIoB3Bvw,The Doral Yard,Medio,4.5,414,8858.226296993038,25.81999998,-80.33561727,8455 NW 53rd St,Miami
+tradamerican,American,kSBE7iHfiYKdyNBIoB3Bvw,The Doral Yard,Medio,4.5,414,8858.226296993038,25.81999998,-80.33561727,8455 NW 53rd St,Miami
+bbq,Barbeque,gWeoN0eDy-tt05a9503jZg,Hometown Bar-B-Que,Alto,4.0,683,8718.172865914836,25.797445333,-80.215986833,1200 NW 22nd St,Miami
+beerbar,Beer Bar,gWeoN0eDy-tt05a9503jZg,Hometown Bar-B-Que,Alto,4.0,683,8718.172865914836,25.797445333,-80.215986833,1200 NW 22nd St,Miami
+cocktailbars,Cocktail Bars,gWeoN0eDy-tt05a9503jZg,Hometown Bar-B-Que,Alto,4.0,683,8718.172865914836,25.797445333,-80.215986833,1200 NW 22nd St,Miami
+wine_bars,Wine Bars,LvBZDGRQMbZsddjnkMIGxg,Jass Kitchen,No especificado,4.6,206,12035.286063119343,25.81768,-80.1918,190 NE 46th St,Miami
+turkish,Turkish,LvBZDGRQMbZsddjnkMIGxg,Jass Kitchen,No especificado,4.6,206,12035.286063119343,25.81768,-80.1918,190 NE 46th St,Miami
+musicvenues,Music Venues,LvBZDGRQMbZsddjnkMIGxg,Jass Kitchen,No especificado,4.6,206,12035.286063119343,25.81768,-80.1918,190 NE 46th St,Miami
+tradamerican,American,Gv5X1-qLTGZbwoz829-Xxg,Corona Beach House,Medio,4.1,834,5091.388969609832,25.797384,-80.276331,2100 NW 42nd Ave,Miami
+sportsbars,Sports Bars,Gv5X1-qLTGZbwoz829-Xxg,Corona Beach House,Medio,4.1,834,5091.388969609832,25.797384,-80.276331,2100 NW 42nd Ave,Miami
+salad,Salad,Gv5X1-qLTGZbwoz829-Xxg,Corona Beach House,Medio,4.1,834,5091.388969609832,25.797384,-80.276331,2100 NW 42nd Ave,Miami
+sportsbars,Sports Bars,-NKYlNaASizxqmNBgSfgeQ,Old Tom's Sports Bar - Miami Springs,Medio,3.9,434,6235.045477121227,25.8081856553967,-80.278128638623,5001 NW 36th St,Miami
+tradamerican,American,-NKYlNaASizxqmNBgSfgeQ,Old Tom's Sports Bar - Miami Springs,Medio,3.9,434,6235.045477121227,25.8081856553967,-80.278128638623,5001 NW 36th St,Miami
+chicken_wings,Chicken Wings,-NKYlNaASizxqmNBgSfgeQ,Old Tom's Sports Bar - Miami Springs,Medio,3.9,434,6235.045477121227,25.8081856553967,-80.278128638623,5001 NW 36th St,Miami
+taiwanese,Taiwanese,wsJQm_iSAj2jLeK9jaCQdg,Hi Pot Miami,Medio,4.4,267,7970.503448316423,25.752836,-80.367636,1665 SW 107th Ave,Miami
+hotpot,Hot Pot,wsJQm_iSAj2jLeK9jaCQdg,Hi Pot Miami,Medio,4.4,267,7970.503448316423,25.752836,-80.367636,1665 SW 107th Ave,Miami
+ramen,Ramen,wsJQm_iSAj2jLeK9jaCQdg,Hi Pot Miami,Medio,4.4,267,7970.503448316423,25.752836,-80.367636,1665 SW 107th Ave,Miami
+peruvian,Peruvian,Gmc2n85rsCNlB590Pqzttw,Ranchito Mi Peru,Medio,3.7,32,7291.853128605597,25.7953472,-80.2326096,2102 NW 22nd Ct,Miami
+latin,Latin American,Gmc2n85rsCNlB590Pqzttw,Ranchito Mi Peru,Medio,3.7,32,7291.853128605597,25.7953472,-80.2326096,2102 NW 22nd Ct,Miami
+sushi,Sushi Bars,ZapyedL_M2bQEXh0r6aGDw,Paperfish Sushi,No especificado,4.4,872,9524.33202446681,25.7602341,-80.1933038,1421 S Miami Ave,Miami
+japanese,Japanese,ZapyedL_M2bQEXh0r6aGDw,Paperfish Sushi,No especificado,4.4,872,9524.33202446681,25.7602341,-80.1933038,1421 S Miami Ave,Miami
+cocktailbars,Cocktail Bars,ZapyedL_M2bQEXh0r6aGDw,Paperfish Sushi,No especificado,4.4,872,9524.33202446681,25.7602341,-80.1933038,1421 S Miami Ave,Miami
+japanese,Japanese,YCIcD8zaluU7i9AfsoJplQ,Matsuri,Medio,4.0,895,2013.360371995776,25.734722326687,-80.2879967867714,5759 Bird Rd,Miami
+sushi,Sushi Bars,YCIcD8zaluU7i9AfsoJplQ,Matsuri,Medio,4.0,895,2013.360371995776,25.734722326687,-80.2879967867714,5759 Bird Rd,Miami
+sportsbars,Sports Bars,IrCQmyud3SNX3kBxeu_DDQ,Howling Wolf Bar & Eatery,No especificado,4.8,29,10273.936216267302,25.789042165294852,-80.19365909387089,1447 NE Miami Ct,Miami
+burgers,Burgers,IrCQmyud3SNX3kBxeu_DDQ,Howling Wolf Bar & Eatery,No especificado,4.8,29,10273.936216267302,25.789042165294852,-80.19365909387089,1447 NE Miami Ct,Miami
+sandwiches,Sandwiches,IrCQmyud3SNX3kBxeu_DDQ,Howling Wolf Bar & Eatery,No especificado,4.8,29,10273.936216267302,25.789042165294852,-80.19365909387089,1447 NE Miami Ct,Miami
+mexican,Mexican,1eto1cFYJ2dNZfIsa6BMZQ,To Be Determined,No especificado,4.2,17,4172.602348070514,25.74932,-80.24653,2240 SW 32nd Ave,Miami
+gastropubs,Gastropubs,7ttBVJ-B9xQKLibnHi5_lw,Tap 42  - Coral Gables,Medio,4.1,1280,2721.6859493692673,25.7511526879356,-80.2609388498841,301 Giralda Ave,Miami
+breakfast_brunch,Breakfast & Brunch,7ttBVJ-B9xQKLibnHi5_lw,Tap 42  - Coral Gables,Medio,4.1,1280,2721.6859493692673,25.7511526879356,-80.2609388498841,301 Giralda Ave,Miami
+beerbar,Beer Bar,7ttBVJ-B9xQKLibnHi5_lw,Tap 42  - Coral Gables,Medio,4.1,1280,2721.6859493692673,25.7511526879356,-80.2609388498841,301 Giralda Ave,Miami
+basque,Basque,4YdRkZ1PB6P_FJMu73fsXQ,Casa Xabi,No especificado,4.2,72,5202.212919574421,25.727562973293985,-80.24433761779083,3145 Commodore Plz,Miami
+bars,Bars,4YdRkZ1PB6P_FJMu73fsXQ,Casa Xabi,No especificado,4.2,72,5202.212919574421,25.727562973293985,-80.24433761779083,3145 Commodore Plz,Miami
+food_court,Food Court,eGMNNkbahmLYYcvCxvTbeA,Central Fare Food Collective,No especificado,4.5,2,9719.121386341172,25.779648819317405,-80.19567670485692,550 NW 1st Ave,Miami
+asianfusion,Asian Fusion,XXk0WJoXomMPlXsISgnXUQ,107 Taste,Medio,4.4,1223,7937.971951295767,25.7527,-80.367311,1679 SW 107th Ave,Miami
+japanese,Japanese,XXk0WJoXomMPlXsISgnXUQ,107 Taste,Medio,4.4,1223,7937.971951295767,25.7527,-80.367311,1679 SW 107th Ave,Miami
+noodles,Noodles,XXk0WJoXomMPlXsISgnXUQ,107 Taste,Medio,4.4,1223,7937.971951295767,25.7527,-80.367311,1679 SW 107th Ave,Miami
+vietnamese,Vietnamese,i-fgz6ZbZ4D1uqeKa76xmw,Pho 79,Medio,4.2,933,7874.619628255297,25.756192,-80.366591,1415 SW 107th Ave,Miami
+noodles,Noodles,i-fgz6ZbZ4D1uqeKa76xmw,Pho 79,Medio,4.2,933,7874.619628255297,25.756192,-80.366591,1415 SW 107th Ave,Miami
+bubbletea,Bubble Tea,i-fgz6ZbZ4D1uqeKa76xmw,Pho 79,Medio,4.2,933,7874.619628255297,25.756192,-80.366591,1415 SW 107th Ave,Miami
+spanish,Spanish,-cEQ49ZoBTUuEHjD3chNLg,Sra Martinez,No especificado,4.5,61,3158.2574483158605,25.7508862,-80.25658981687346,2325 Galiano St,Miami
+venues,Venues & Event Spaces,-cEQ49ZoBTUuEHjD3chNLg,Sra Martinez,No especificado,4.5,61,3158.2574483158605,25.7508862,-80.25658981687346,2325 Galiano St,Miami
+wine_bars,Wine Bars,-cEQ49ZoBTUuEHjD3chNLg,Sra Martinez,No especificado,4.5,61,3158.2574483158605,25.7508862,-80.25658981687346,2325 Galiano St,Miami
